@@ -1,0 +1,1924 @@
+{
+  "settings": {
+    "companyNameAr": "القصر الذهبي للدهانات والديكورات الحديثة",
+    "companyNameEn": "GOLDEN PALACE FOR PAINTS & MODERN DECOR",
+    "heroHeadlineAr": "حلول متكاملة في الدهانات والديكورات الحديثة",
+    "heroHeadlineEn": "Integrated Solutions in Modern Paints & Decor",
+    "heroSubtextAr": "حلول متكاملة في أعمال الدهانات الداخلية والخارجية، الديكورات الجدارية، بديل الرخام والخشب، والأسقف الجبسية بجودة عالية وضمان معتمد بالمنطقة الشرقية (الخبر • الدمام • القطيف).",
+    "heroSubtextEn": "Premium interior & exterior paints, decorative wall panels, marble & wood alternatives, and ceilings with certified quality in the Eastern Province.",
+    "phone": "0561095508",
+    "whatsapp": "0561095508",
+    "email": "info@alqasraldhahabi.com",
+    "locationAr": "المنطقة الشرقية (الدمام - الخبر - القطيف)",
+    "locationEn": "Eastern Province (Dammam - Khobar - Qatif)",
+    "mapUrl": "https://maps.app.goo.gl",
+    "mapEmbedUrl": "",
+    "unifiedNumber": "0561095508",
+    "logoUrl": "/images/brand/logo-horizontal.png",
+    "logoHeight": 52,
+    "heroSlides": [
+      {
+        "id": 1,
+        "image": "/images/hero/hero-living-room.webp",
+        "tagAr": "الخبر — الدمام — القطيف",
+        "tagEn": "Khobar — Dammam — Qatif",
+        "headlineAr": "القصر الذهبي للدهانات والديكورات الحديثة",
+        "headlineEn": "Golden Palace Paints & Modern Decor",
+        "subAr": "حلول متكاملة في أعمال الدهانات والديكورات للمنازل والفلل والمشاريع التجارية، بتشطيبات عصرية وجودة عالية.",
+        "subEn": "Integrated painting and modern decor solutions for homes, villas, and commercial projects across the Eastern Province."
+      },
+      {
+        "id": 2,
+        "image": "/images/offers/paint-tools.webp",
+        "tagAr": "دهانات جوتن الأصلية — باقات حصرية",
+        "tagEn": "Original JOTUN Paints — Exclusive Packages",
+        "headlineAr": "عروض حصرية وضمان معتمد\nعلى جودة التشطيب والتنفيذ",
+        "headlineEn": "Certified Quality & Exclusive Paint Packages",
+        "subAr": "باقات متكاملة لتشطيب الغرف تبدأ من 500 ريال للغرفة شاملة المعجون والسنفرة والأساس ووجهين تشطيب ونظافة مكان العمل.",
+        "subEn": "Complete room packages starting from 500 SAR including putty, sanding, primer, and double finish coats with workspace cleaning."
+      },
+      {
+        "id": 3,
+        "image": "/images/portfolio/marble-decoration.webp",
+        "tagAr": "ديكورات عصرية — بديل الرخام والخشب",
+        "tagEn": "Modern Decor — Marble & Wood Alternatives",
+        "headlineAr": "لمسات ديكورية راقية\nتحوّل مساحتك إلى تحفة فنية",
+        "headlineEn": "Refined Decorative Touches for Your Space",
+        "subAr": "أرقى تصاميم بديل الرخام، بديل الخشب، بانوهات الفوم، والأسقف الجبسية مع خطوط إضاءة ليد مخفية.",
+        "subEn": "Premium marble and wood alternatives, wall moulding panels, and gypsum ceilings with recessed cove lighting."
+      }
+    ],
+    "aboutMainImage": "/images/hero/living-room.webp",
+    "aboutFloatingImage": "/images/portfolio/project-3.webp",
+    "factoryShowroomImage": "/images/services/facade.webp",
+    "workshopImage": "/images/services/interior.webp",
+    "updatedAt": "2026-11-22T01:19:39.121Z",
+    "serviceAreasAr": "الخبر — الدمام — القطيف — الظهران — سيهات",
+    "topAnnouncementAr": "نخدم كافة مناطق الشرقية: الخبر - الدمام - القطيف | خصم 30% لفترة محدودة على دهانات الفلل والشقق",
+    "faviconUrl": "/images/brand/emblem.png",
+    "heroDiscountBadgeAr": "خصم 30% لفترة محدودة على دهانات الفلل والشقق",
+    "heroGuaranteeBadgeAr": "ضمان 10 سنوات معتمد",
+    "heroHeadlineLine1Ar": "أرقى أعمال الدهانات والديكورات",
+    "heroHeadlineLine2Ar": "والديكورات الحديثة",
+    "heroLiveStatusAr": "فنيون وصباغون متاحون للمعاينة الفورية اليوم بالخبر والدمام والقطيف",
+    "heroMainImage": "/images/hero/hero-living-room.webp",
+    "heroCtaWhatsappTextAr": "احجز معاينة مجانية عبر واتساب",
+    "heroCtaCallTextAr": "اتصل الآن: 0561095508",
+    "heroProof1Title": "خامات أصلية 100%",
+    "heroProof1Desc": "جوتن والجزيرة معتمدة",
+    "heroProof2Title": "دقة والتزام بالمواعيد",
+    "heroProof2Desc": "تشطيب فندقي نظيف",
+    "heroProof3Title": "أفضل سعر بالمنطقة",
+    "heroProof3Desc": "خصم 30% ومعاينة مجانية",
+    "offersSectionTitleAr": "عروض وباقات دهانات جوتن وديكورات الفلل",
+    "offersSectionSubtextAr": "باقات متكاملة تبدأ من 500 ريال للغرفة شاملة المعجون والأساس والسنفرة ووجهين دهان جوتن أصلي ونظافة تامة",
+    "offersChecklist1Ar": "دهانات جوتن أصلية 100% مع ضمان رسمي معتمد",
+    "offersChecklist2Ar": "معالجة الشقوق وسنفرة وتأسيس كامل بالمعجون الفاخر",
+    "offersChecklist3Ar": "نظافة تامة للمكان وحماية المفروشات والأرضيات",
+    "offersChecklist4Ar": "معاينة موقع واختيار عينات الألوان مجاناً بالمنزل",
+    "whyUsSectionTitleAr": "لماذا يختارنا أصحاب المنازل والفلل بالشرقية؟",
+    "whyUsSectionSubtextAr": "نلتزم بأعلى معايير الحرفية والسرعة والنظافة لتقديم تشطيب يرتقي لذوقكم الرفيع",
+    "whyUsPillar1Title": "خامات جوتن والجزيرة الأصلية 100%",
+    "whyUsPillar1Desc": "نعتمد دهانات أصلية ومقاومة للرطوبة وتغيرات الطقس بالشرقية مع بطاقة ضمان رسمية",
+    "whyUsPillar2Title": "ضمان معتمد على جودة التشطيب",
+    "whyUsPillar2Desc": "نمنح عملاءنا ضماناً موثقاً على ثبات الألوان وعدم التقشر والتشقق",
+    "whyUsPillar3Title": "حماية تامة ونظافة فائقة",
+    "whyUsPillar3Desc": "تغطية كاملة للأثاث والأرضيات ومفاتيح الكهرباء مع تسليم المكان نظيفاً تماماً",
+    "whyUsPillar4Title": "التزام دقيق بالمواعيد والجدول",
+    "whyUsPillar4Desc": "ننجز أعمال الدهانات بدقة وسرعة وفق الجدول المتفق عليه دون أي تأخير",
+    "whyUsPillar5Title": "أفضل سعر وتوفير حقيقي 30%",
+    "whyUsPillar5Desc": "أسعار تنافسية تبدأ من 500 ريال للغرفة، مع معاينة موقع مجانية وتحديد ألوان بدون أي رسوم",
+    "aboutSectionTitleAr": "قصة القصر الذهبي للدهانات والديكورات الحديثة",
+    "aboutStoryAr": "انطلقنا في المنطقة الشرقية برؤية واضحة: تقديم خدمات دهانات وديكورات تجمع بين الفخامة والاحترافية بأعلى جودة لخامات جوتن الأصلية، مع الحفاظ على أعلى معايير النظافة والسرعة والدقة. نفخر بخدمة مئات المنازل والفلل والمشاريع التجارية بالدمام والخبر والقطيف.",
+    "aboutYearsExperience": "+15",
+    "aboutCompletedProjects": "+1,200",
+    "aboutCustomerSatisfaction": "99%",
+    "aboutWarrantyYears": "10 سنوات",
+    "quoteStripTitleAr": "هل ترغب في تجديد دهانات منزلك أو تشطيب فلتك بأعلى جودة؟",
+    "quoteStripSubtextAr": "تواصل معنا الآن واحصل على معاينة مجانية وخصم حصري 30% في الخبر والدمام والقطيف",
+    "quoteStripCtaWhatsappAr": "احصل على الخصم والمعاينة عبر واتساب",
+    "quoteStripCtaCallAr": "اتصال مباشر: 0561095508",
+    "snapchatUrl": "https://snapchat.com",
+    "tiktokUrl": "https://tiktok.com",
+    "instagramUrl": "https://instagram.com",
+    "xUrl": "https://x.com",
+    "youtubeUrl": "https://youtube.com",
+    "createdAt": "2026-11-22T01:19:39.121Z"
+  },
+  "services": [
+    {
+      "id": "srv-home-paints",
+      "slug": "home-paints",
+      "titleAr": "دهانات المنازل",
+      "titleEn": "Home Painting",
+      "shortDescAr": "تشطيب أنيق لمنزلك بألوان عصرية وخامات تدوم.",
+      "shortDescEn": "Elegant home painting with modern colors and durable premium finishes.",
+      "fullDescAr": "خدمات دهان متكاملة للمنازل السكنية بأحدث تقنيات الدهان وأجود خامات جوتن الأصلية في الدمام والخبر والقطيف. نعتني بكافة التفاصيل من معالجة الأسطح والشروخ بالمعجون وتطبيق الأساس المتين وحتى اللمسات النهائية التي تضفي الدفء والأناقة على منزلك.",
+      "fullDescEn": "Comprehensive residential painting solutions using genuine JOTUN paints across Eastern Province. From crack repair and primer to flawless final coats.",
+      "image": "/images/portfolio/real-modern-room-parquet.jpg",
+      "coverImage": "/images/portfolio/real-modern-room-parquet.jpg",
+      "gallery": [
+        "/images/portfolio/real-modern-room-parquet.jpg",
+        "/images/portfolio/real-limestone-hallway.jpg",
+        "/images/portfolio/real-breeze-limestone-foam.jpg"
+      ],
+      "featuresAr": [
+        "تشطيب أنيق بألوان عصرية هادئة ومتناسقة",
+        "دهانات جوتن فينوماستيك قابلة للغسيل ومقاومة للبقع",
+        "معالجة متقنة لعيوب الجدران والشروخ بالمعجون",
+        "حماية تامة للأثاث والأرضيات أثناء العمل",
+        "تسليم سريع ونظافة كاملة للمكان"
+      ],
+      "featuresEn": [
+        "Modern aesthetic finishes with harmonious tones",
+        "Washable, stain-resistant JOTUN Fenomastic paints",
+        "Precision putty and surface crack repairs",
+        "Complete protection for furniture and flooring",
+        "Fast turnaround and thorough post-job cleaning"
+      ],
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "srv-villa-paints",
+      "slug": "villa-paints",
+      "titleAr": "دهانات الفلل",
+      "titleEn": "Villa Painting",
+      "shortDescAr": "لمسة فاخرة للفلل من الداخل والخارج باحترافية.",
+      "shortDescEn": "A luxurious professional touch for villas, inside and out.",
+      "fullDescAr": "تنفيذ أرقى أعمال الدهانات والديكورات للفلل والقصور السكنية في الدمام والخبر والقطيف. تشطيبات فندقية راقية تشمل الصالات الكبرى، المداخل، الدرج، والواجهات الخارجية المقاومة للعوامل الجوية.",
+      "fullDescEn": "Hotel-grade luxury finishes for villas and palaces across Dammam, Khobar, and Qatif, covering majestic halls, grand staircases, and weather-defying facades.",
+      "image": "/images/services/service-villas.webp",
+      "coverImage": "/images/services/service-villas.webp",
+      "gallery": [
+        "/images/services/service-villas.webp",
+        "/images/services/service-exterior.webp",
+        "/images/portfolio/project-1.webp"
+      ],
+      "featuresAr": [
+        "تشطيب فندقي فاخر يليق بالمساحات الكبيرة والفلل",
+        "فرق عمل متخصصة ومحترفة بخبرة تتجاوز 10 سنوات",
+        "تنسيق متكامل للألوان والديكورات الداخلية والخارجية",
+        "تنفيذ الواجهات بدهانات بروفايل وعوازل جوتاشيلد",
+        "ضمان معتمد وشامل على ثبات الألوان وعدم التقشر"
+      ],
+      "featuresEn": [
+        "Luxury hotel finish suited for large villas",
+        "Specialized teams with 10+ years field experience",
+        "Coordinated palettes for interior and exterior spaces",
+        "Exterior facades with Jotashield profile coatings",
+        "Certified warranty on adhesion and color retention"
+      ],
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "srv-apartment-paints",
+      "slug": "apartment-paints",
+      "titleAr": "دهانات الشقق",
+      "titleEn": "Apartment Painting",
+      "shortDescAr": "دهان سريع ونظيف للشقق بمظهر راقٍ ومتناسق.",
+      "shortDescEn": "Fast, immaculate apartment painting with a refined, cohesive look.",
+      "fullDescAr": "حلول سريعة وعالية الدقة لتجديد دهانات الشقق والوحدات السكنية بمظهر عصري متناسق وتسليم في وقت قياسي دون إحداث فوضى، مع توفير أفضل درجات الألوان الهادئة والمريحة التي تمنح رحابة واتساعاً للمكان.",
+      "fullDescEn": "Rapid and meticulous painting solutions for apartments and modern residences, delivering cohesive color harmony on tight schedules with zero mess.",
+      "image": "/images/portfolio/real-breeze-vanilla-latte.jpg",
+      "coverImage": "/images/portfolio/real-breeze-vanilla-latte.jpg",
+      "gallery": [
+        "/images/portfolio/real-breeze-vanilla-latte.jpg",
+        "/images/portfolio/real-modern-room-parquet.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "featuresAr": [
+        "دهان سريع ونظيف وتسليم في غضون أيام محددة",
+        "دهانات بدون رائحة نفاذة صديقة للبيئة والأسرة",
+        "اختيار درجات ألوان مدروسة تعطي رحابة واتساعاً",
+        "باقات أسعار منافسة تناسب الشقق بمختلف المساحات",
+        "تسليم نظيف وجاهز للسكن الفوري"
+      ],
+      "featuresEn": [
+        "Quick and clean execution with on-time handover",
+        "Low-odor, eco-safe paints for families",
+        "Curated colors designed to expand perceived space",
+        "Competitive packages for apartments of all sizes",
+        "Spotless move-in ready finish"
+      ],
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "srv-majlis-paints",
+      "slug": "majlis-paints",
+      "titleAr": "دهانات المجالس",
+      "titleEn": "Majlis Painting & Decor",
+      "shortDescAr": "ألوان تليق بمجالسك وتبرز ديكورها بذوق رفيع.",
+      "shortDescEn": "Majestic colors that honor your majlis and highlight its decor with exquisite taste.",
+      "fullDescAr": "تصميم وتنفيذ دهانات المجالس الرجالية وصالات الضيافة بألوان فخمة وديكورات جدارية راقية تعكس كرم الضيافة وأصالة المجلس السعودي، مع دمج الإضاءات المخفية والبانوهات الكلاسيكية وبديل الرخام.",
+      "fullDescEn": "Bespoke painting and decor for Saudi guest majlis rooms, blending royal color palettes, concealed lighting, foam mouldings, and marble alternatives.",
+      "image": "/images/services/service-majlis.webp",
+      "coverImage": "/images/services/service-majlis.webp",
+      "gallery": [
+        "/images/services/service-majlis.webp",
+        "/images/portfolio/project-2.webp",
+        "/images/services/service-interior.webp"
+      ],
+      "featuresAr": [
+        "ألوان ملكية وفخمة تليق بمجالس الضيافة السعودية",
+        "دمج البانوهات الجدارية وبديل الرخام والخشب",
+        "إبراز تفاصيل الإضاءة المخفية والأسقف الجبسية",
+        "تشطيب مخملي وحريري يعكس الذوق الرفيع",
+        "تناسق تام مع الأثاث والمفروشات"
+      ],
+      "featuresEn": [
+        "Royal palette honoring Saudi hospitality tradition",
+        "Seamless fusion of wall trims, marble and wood slats",
+        "Cove lighting and gypsum accent enhancement",
+        "Velvet-smooth silk finish of elevated luxury",
+        "Harmonious match with furniture and carpets"
+      ],
+      "order": 4,
+      "active": true
+    },
+    {
+      "id": "srv-interior-paints",
+      "slug": "interior-paints",
+      "titleAr": "الدهانات الداخلية",
+      "titleEn": "Interior Painting",
+      "shortDescAr": "أسطح داخلية ناعمة بألوان هادئة ومتناسقة.",
+      "shortDescEn": "Smooth interior surfaces with serene, harmonious shades.",
+      "fullDescAr": "تطبيق أرقى الدهانات الداخلية للصالات، غرف النوم، والممرات بأعلى معايير النعومة والتسوية الدقيقة للأسطح، باستخدام دهانات جوتن فينوماستيك المقاومة للغسيل والبقع مع تشكيلة واسعة من الألوان العصرية.",
+      "fullDescEn": "Refined interior coating for living spaces, bedrooms, and corridors with silky smoothness, utilizing washable JOTUN Fenomastic formulas.",
+      "image": "/images/portfolio/real-limestone-hallway.jpg",
+      "coverImage": "/images/portfolio/real-limestone-hallway.jpg",
+      "gallery": [
+        "/images/portfolio/real-limestone-hallway.jpg",
+        "/images/portfolio/real-classic-white-corridor.jpg",
+        "/images/catalog/jotun-interior-swatches.jpg"
+      ],
+      "featuresAr": [
+        "أسطح حريرية ناعمة خالية تماماً من التموجات والعيوب",
+        "دهانات قابلة للغسيل ومقاومة للاحتكاك والبقع",
+        "درجات ألوان محايدة وعصرية مختارة بدقة",
+        "تأسيس قوي بمعجون جوتن لمعالجة الرطوبة والتشققات",
+        "تطبيق احترافي برول وفرش مخصصة لمنع الآثار"
+      ],
+      "featuresEn": [
+        "Silky flawless surfaces without waviness or seams",
+        "Washable, scrub-resistant stain protection",
+        "Curated contemporary neutral and warm palettes",
+        "Moisture-proof substrate prep with quality putty",
+        "Professional roller application free of brush marks"
+      ],
+      "order": 5,
+      "active": true
+    },
+    {
+      "id": "srv-exterior-paints",
+      "slug": "exterior-paints",
+      "titleAr": "الدهانات الخارجية",
+      "titleEn": "Exterior Painting",
+      "shortDescAr": "دهانات مقاومة للعوامل الجوية وتحمي الواجهات.",
+      "shortDescEn": "Weather-resistant exterior paints engineered to protect facades.",
+      "fullDescAr": "دهانات الواجهات الخارجية والبروفايل وعوازل الرطوبة والحرارة التي تحمي المباني من حرارة الصيف ورطوبة الشرقية وأشعة الشمس الحارقة، مع الحفاظ على بريق اللون وثباته لسنوات طويلة.",
+      "fullDescEn": "Heavy-duty exterior facade paints, textured profile coatings, and thermal/moisture barriers protecting buildings against Eastern Province climate.",
+      "image": "/images/services/service-exterior.webp",
+      "coverImage": "/images/services/service-exterior.webp",
+      "gallery": [
+        "/images/services/service-exterior.webp",
+        "/images/services/service-villas.webp",
+        "/images/portfolio/project-1.webp"
+      ],
+      "featuresAr": [
+        "مقاومة فائقة لحرارة ورطوبة وأملاح المنطقة الشرقية",
+        "استخدام دهانات جوتاشيلد Jotashield وبروفايل عالي التحمل",
+        "عزل مائي وحراري للواجهات يحمي الجدران من التسريب",
+        "ثبات فائق للألوان ومقاومة لتغير درجات الشمس",
+        "سقالات آمنة وفريق متخصص بارتفاعات المباني"
+      ],
+      "featuresEn": [
+        "Maximum resistance against humidity, heat and coastal salts",
+        "Certified Jotun Jotashield and heavy profile systems",
+        "Waterproofing and thermal shielding for exterior walls",
+        "UV-stable pigments preventing color fading",
+        "Certified scaffolding safety and high-elevation pros"
+      ],
+      "order": 6,
+      "active": true
+    },
+    {
+      "id": "srv-1",
+      "slug": "interior-exterior-paints",
+      "titleAr": "دهانات داخلية وخارجية",
+      "titleEn": "Interior & Exterior Paints",
+      "shortDescAr": "أرقى دهانات الصالات والغرف والواجهات بأجود خامات جوتن القابلة للغسيل والمقاومة للرطوبة والعوامل الجوية.",
+      "shortDescEn": "Premium interior and exterior wall finishes using washable, weather-resistant JOTUN paints.",
+      "fullDescAr": "نقدم خدمات دهانات متكاملة تشمل معالجة الجدران والشقوق بالمعجون، تطبيق وجوه الأساس، والصنفرة الاحترافية، والتشطيب النهائي بدهانات جوتن عالية الجودة بدرجات ألوان متناسقة تضفي إحساساً بالفخامة والراحة.",
+      "fullDescEn": "Comprehensive painting services including surface prep, putty, sanding, primer, and double finish coats with JOTUN certified paints.",
+      "image": "/images/services/interior.webp",
+      "featuresAr": [
+        "استخدام دهانات جوتن الأصلية",
+        "معالجة الشقوق والرطوبة",
+        "صنفرة ناعمة وتأسيس متقن",
+        "نظافة تامة لمكان العمل"
+      ],
+      "featuresEn": [
+        "Original JOTUN paints",
+        "Moisture & crack repair",
+        "Smooth sanding & priming",
+        "Full workspace cleanup"
+      ],
+      "order": 7
+    },
+    {
+      "id": "srv-2",
+      "slug": "wall-decorations",
+      "titleAr": "الديكورات الجدارية وبديل الرخام والخشب",
+      "titleEn": "Wall Decor & Modern Alternatives",
+      "shortDescAr": "تركيب بديل الرخام، بديل الخشب، وبانوهات الفوم الجدارية العصرية بتصاميم كلاسيكية ومودرن راقية.",
+      "shortDescEn": "Installation of marble and wood alternatives, polyurethane wall moldings, and modern decorative panels.",
+      "fullDescAr": "نحول الجدران العادية إلى لوحات فنية باستخدام أجود ألواح بديل الرخام المقاوم للماء والحرارة مع خطوط الإضاءة المخفية، وبديل الخشب المقاوم للرطوبة، وبانوهات الفوم الكوري عالي الكثافة.",
+      "fullDescEn": "Transform regular walls into aesthetic focal points using high-grade marble alternatives, acoustic wood slats, and high-density mouldings.",
+      "image": "/images/services/decor.webp",
+      "featuresAr": [
+        "مقاومة تامة للماء والحرارة",
+        "إضاءات ليد مخفية مدمجة",
+        "قصات ليزر وتشطيب فندقي",
+        "تصاميم كلاسيك ومودرن"
+      ],
+      "featuresEn": [
+        "Water & heat resistant",
+        "Integrated LED cove light",
+        "Laser cuts & hotel finish",
+        "Classic & modern styles"
+      ],
+      "order": 8
+    },
+    {
+      "id": "srv-3",
+      "slug": "ceilings-gypsum",
+      "titleAr": "دهانات وتصاميم الأسقف وجبس بورد",
+      "titleEn": "Ceilings & Gypsum Board Design",
+      "shortDescAr": "تنفيذ أسقف الجبس بورد الحديثة وبيوت النور والإضاءة المخفية بدهانات ناصعة فائقة الجودة.",
+      "shortDescEn": "Modern gypsum board ceiling execution with hidden light coves and ultra-smooth ceiling paints.",
+      "fullDescAr": "خبرة عريقة في تصميم وتركيب وتشطيب الأسقف الجبسية المعلقة، وتوزيع الإضاءة الحديثة، ومعالجة فواصل الجبس بدهانات مطفية فائقة البياض تمنح السقف مظهراً انسيابياً فخماً.",
+      "fullDescEn": "Expert gypsum ceiling installation, seam finishing, recessed cove lighting, and dead-flat ceiling coatings.",
+      "image": "/images/services/ceiling.webp",
+      "featuresAr": [
+        "أسقف فلات ومستويات متعددة",
+        "بيوت نور لإضاءة الليد",
+        "معالجة فواصل خالية من التموجات",
+        "دهانات مطفية مضادة للانعكاس"
+      ],
+      "featuresEn": [
+        "Flat & multi-level ceilings",
+        "Cove lighting channels",
+        "Seamless joint treatment",
+        "Anti-glare flat white paints"
+      ],
+      "order": 9
+    },
+    {
+      "id": "srv-4",
+      "slug": "door-painting",
+      "titleAr": "دهان وتشطيب الأبواب الخشبية والحديدية",
+      "titleEn": "Door Painting & Refinishing",
+      "shortDescAr": "دهان وتجديد الأبواب الخشبية والحديدية بدهانات نارية وزيتية راقية مقاومة للخدش والعوامل الجوية.",
+      "shortDescEn": "Refinishing interior wooden and exterior steel doors with scratch-resistant lacquer and polyurethane coatings.",
+      "fullDescAr": "إعادة إحياء وتجديد الأبواب القديمة وتشطيب الأبواب الجديدة بأحدث تقنيات الرش والدهان الناري (الدوكو) والصبغات الزيتية الفاخرة بألوان عصرية ناعمة الملمس وشديدة التحمل.",
+      "fullDescEn": "Restoring and spraying wooden doors with factory-grade automotive lacquer, polyurethane, and rich wood stains.",
+      "image": "/images/services/door.webp",
+      "featuresAr": [
+        "رش ناري بالكمبروسر بدون خطوط",
+        "مقاومة عالية للخدش والصدمات",
+        "ألوان مطفية ولميعة حسب الطلب",
+        "تجديد الأبواب في الموقع"
+      ],
+      "featuresEn": [
+        "Smooth compressor spray",
+        "High scratch resistance",
+        "Matte or high-gloss finish",
+        "On-site refinishing"
+      ],
+      "order": 10
+    },
+    {
+      "id": "srv-5",
+      "slug": "facades-finishing",
+      "titleAr": "تشطيب الواجهات والمباني الحديثة",
+      "titleEn": "Facade Finishing & Cladding",
+      "shortDescAr": "تشطيب واجهات الفلل والمباني ببروفايل ودهانات مقاومة للعوامل الجوية تمنح المبنى مظهراً فخماً يدوم طويلاً.",
+      "shortDescEn": "Exterior villa finishing with textured profile paints and heavy-duty weather coatings.",
+      "fullDescAr": "تنفيذ أعمال دهانات الواجهات الخارجية وبروفايل كسر الرخام وعوازل الواجهات الخارجية لحماية المبنى من حرارة الشمس ورطوبة المنطقة الشرقية مع الحفاظ على رونق وأناقة الواجهة لسنوات.",
+      "fullDescEn": "Heavy-duty exterior paint coatings, textured profile finishes, and thermal protection designed for Gulf coastal climates.",
+      "image": "/images/services/facade.webp",
+      "featuresAr": [
+        "مقاومة فائقة لحرارة ورطوبة الشرقية",
+        "ثبات ألوان معتمد لسنوات طويلة",
+        "نقشات بروفايل متنوعة",
+        "عوازل خارجية متطورة"
+      ],
+      "featuresEn": [
+        "Coastal climate resistance",
+        "Long-lasting color retention",
+        "Custom textured patterns",
+        "Advanced protective sealing"
+      ],
+      "order": 11
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-real-golden-palace-flyer",
+      "slug": "real-official-golden-palace-verified-offers-flyer",
+      "category": "interior",
+      "titleAr": "باقات وعروض القصر الذهبي المعتمدة رسمياً — الخبر والدمام والقطيف",
+      "titleEn": "Official Golden Palace Verified Packages & Offers — Eastern Province",
+      "locationAr": "المنطقة الشرقية (الدمام • الخبر • القطيف)",
+      "locationEn": "Eastern Province (Dammam • Khobar • Qatif)",
+      "scopeAr": "عروض دهانات شاملة: الغرفة 500 ريال، غرفتين 700 ريال، 3 غرف 1000 ريال، السقف 100، الباب 90",
+      "scopeEn": "Complete package: 1 room 500 SAR, 2 rooms 700 SAR, 3 rooms 1000 SAR, ceiling 100 SAR, door 90 SAR",
+      "image": "/images/brand/official-golden-palace-flyer.jpg",
+      "coverImage": "/images/brand/official-golden-palace-flyer.jpg",
+      "gallery": [
+        "/images/brand/official-golden-palace-flyer.jpg",
+        "/images/products/real-jotun-fenomastic-casho.jpg",
+        "/images/catalog/jotun-popular-colors-2027.jpg"
+      ],
+      "shortDescAr": "البروشور الرسمي المعتمد للقصر الذهبي: زي الفريق الموحد، خامات جوتن الأصلية، معالجة معجون، سنفرة، أساس، وجهين تشطيب ونظافة تامة.",
+      "descriptionAr": "وثيقة عروض القصر الذهبي المعتمدة التي تضمن للعميل تنفيذ العمل بخامات جوتن الأصلية 100% وبأيدي فنيين محترفين مع نظافة تامة وضمان رسمي.",
+      "completionDate": "2026",
+      "order": 9
+    },
+    {
+      "id": "proj-real-reception-ceilings",
+      "slug": "real-reception-ceilings-wood-doors-qatif",
+      "category": "ceilings",
+      "titleAr": "تشطيب أسقف وجدران صالة استقبال بإنارة سبوتلايت وأبواب خشبية — القطيف",
+      "titleEn": "Reception Hall Ceilings & Spotlights with Wooden Doors — Qatif",
+      "locationAr": "القطيف - حي الناصرة",
+      "locationEn": "Qatif - Al Nassera",
+      "scopeAr": "دهان أسقف ناصعة البياض مطفية مع توزيع سبوتلايت وأبواب خشبية فاخرة",
+      "scopeEn": "Ceiling painting with spotlight alignment and wood door harmony",
+      "image": "/images/portfolio/real-hallway-wood-doors.jpg",
+      "coverImage": "/images/portfolio/real-hallway-wood-doors.jpg",
+      "gallery": [
+        "/images/portfolio/real-hallway-wood-doors.jpg",
+        "/images/portfolio/real-modern-room-parquet.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "shortDescAr": "تشطيب أسقف وجدران صالة وممرات بإنارة سبوتلايت مدمجة وأرضيات رخامية وأبواب خشبية عصرية.",
+      "descriptionAr": "معالجة فواصل الجبس بورد ودهان الأسقف باللون الأبيض المطفي المانع للانعكاسات المزعجة مع تناسق كامل مع ألوان الجدران الهادئة.",
+      "completionDate": "2026",
+      "order": 8
+    },
+    {
+      "id": "proj-real-classic-white-corridor",
+      "slug": "real-classic-white-corridor-dammam",
+      "category": "interior",
+      "titleAr": "تشطيب ممر ومداخل بلون كلاسيك وايت 9918 المضيء — الدمام",
+      "titleEn": "Luminous Corridor Finished in Classic White 9918 — Dammam",
+      "locationAr": "الدمام - حي المزروعية",
+      "locationEn": "Dammam - Al Mazrouiyah",
+      "scopeAr": "دهانات داخلية كلاسيك وايت 9918 مع نعلات عصرية وبياض ناصع",
+      "scopeEn": "Classic White 9918 interior coating with modern skirting",
+      "image": "/images/portfolio/real-classic-white-corridor.jpg",
+      "coverImage": "/images/portfolio/real-classic-white-corridor.jpg",
+      "gallery": [
+        "/images/portfolio/real-classic-white-corridor.jpg",
+        "/images/portfolio/real-limestone-hallway.jpg",
+        "/images/catalog/jotun-interior-swatches.jpg"
+      ],
+      "shortDescAr": "تشطيب ممر داخلي فاخر بلون كلاسيك وايت 9918 يعزز انتشار الإضاءة الطبيعية ويعطي إحساساً بالنقاء والرحابة.",
+      "descriptionAr": "طلاء ممرات فيلا بالكامل بلون كلاسيك وايت 9918 من جوتن، مع سنفرة كاملة ومعالجة التشققات ودهان وجهين بجودة فائقة.",
+      "completionDate": "2026",
+      "order": 7
+    },
+    {
+      "id": "proj-real-greige-door",
+      "slug": "real-greige-interior-door-refinishing-khobar",
+      "category": "doors",
+      "titleAr": "دهان وتجديد أبواب خشبية راقية بلون الجريج العصري — الخبر",
+      "titleEn": "Luxury Interior Wood Doors Painted in Modern Greige — Khobar",
+      "locationAr": "الخبر - حي العقربية",
+      "locationEn": "Khobar - Al Aqrabiyah",
+      "scopeAr": "دهان أبواب داخلية مطفي ناعم بلون الجريج (Greige) العصري",
+      "scopeEn": "Refinishing interior doors with sleek Greige smooth coating",
+      "image": "/images/portfolio/real-greige-painted-door.jpg",
+      "coverImage": "/images/portfolio/real-greige-painted-door.jpg",
+      "gallery": [
+        "/images/portfolio/real-greige-painted-door.jpg",
+        "/images/portfolio/real-hallway-wood-doors.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "shortDescAr": "لون الجريج يجمع بين دفء البيج وأناقة الرمادي لمنح الأبواب طابعاً فندقياً مريحاً مع الحفاظ على النعومة.",
+      "descriptionAr": "سنفرة ومعالجة عيوب الأبواب الخشبية القديمة وتطبيق طبقات أساس ودهان تشطيب مقاوم للخدوش والتآكل اليومي بدرجة جريج ناعمة.",
+      "completionDate": "2026",
+      "order": 6
+    },
+    {
+      "id": "proj-real-luxury-foam-moldings",
+      "slug": "real-luxury-foam-moldings-detail-dammam",
+      "category": "decor",
+      "titleAr": "تنفيذ بانوهات الفوم الديكورية بدقة متناهية — الدمام",
+      "titleEn": "High Precision Luxury Foam Moldings — Dammam",
+      "locationAr": "الدمام - حي الشاطئ الشرقي",
+      "locationEn": "Dammam - East Shore",
+      "scopeAr": "تركيب بانوهات فوم متعددة الطبقات ودهان حريري عالي الجودة",
+      "scopeEn": "Multi-layer foam molding installation with silky topcoat",
+      "image": "/images/portfolio/real-luxury-foam-moldings.jpg",
+      "coverImage": "/images/portfolio/real-luxury-foam-moldings.jpg",
+      "gallery": [
+        "/images/portfolio/real-luxury-foam-moldings.jpg",
+        "/images/portfolio/real-breeze-limestone-foam.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "shortDescAr": "لمسة فخامة في كل تفصيلة: زوايا هندسية 45 درجة دقيقة ونهايات ناعمة للجدران المودرن والكلاسيك.",
+      "descriptionAr": "من أعمال القصر الذهبي المتميزة في تركيب بانوهات الفوم الكثيف المضاد للصدمات مع معالجة الفواصل بالمعجون المخصص وتشطيب دهان فاخر.",
+      "completionDate": "2026",
+      "order": 5
+    },
+    {
+      "id": "proj-real-breeze-vanilla",
+      "slug": "real-breeze-vanilla-latte-wall-molding-qatif",
+      "category": "interior",
+      "titleAr": "تشطيب جداري دهان بريز 0552 وفانيلا لاتيه 1519 مع إطارات ديكورية — القطيف",
+      "titleEn": "Breeze & Vanilla Latte Wall Paint with Decorative Moldings — Qatif",
+      "locationAr": "القطيف - حي المجيدية",
+      "locationEn": "Qatif - Al Majeediah",
+      "scopeAr": "دهانات جوتن بريز 0552 وفانيلا لاتيه 1519 مع بانوهات فوم فخمة",
+      "scopeEn": "Jotun Breeze 0552 & Vanilla Latte 1519 with luxury wall panels",
+      "image": "/images/portfolio/real-breeze-vanilla-latte.jpg",
+      "coverImage": "/images/portfolio/real-breeze-vanilla-latte.jpg",
+      "gallery": [
+        "/images/portfolio/real-breeze-vanilla-latte.jpg",
+        "/images/catalog/real-color-comparison-swatch.jpg",
+        "/images/portfolio/real-luxury-foam-moldings.jpg"
+      ],
+      "shortDescAr": "تطبيق عملي لأكثر ألوان جوتن طلباً: بريز 0552 بالأعلى وفانيلا لاتيه 1519 مع إطارات ديكورية أنيقة.",
+      "descriptionAr": "تشطيب فندقي متقن يجمع بين نعومة فانيلا لاتيه وهدوء لون بريز مع بانوهات فوم معالجة بدهان مطفي مقاوم للبصمات.",
+      "completionDate": "2026",
+      "order": 4
+    },
+    {
+      "id": "proj-real-modern-parquet",
+      "slug": "real-modern-living-room-parquet-khobar",
+      "category": "interior",
+      "titleAr": "تشطيب صالة وغرف نوم مع باركيه وإنارة أسقف مخفية — الخبر",
+      "titleEn": "Living & Bedroom Finishes with Parquet & Ceiling Lighting — Khobar",
+      "locationAr": "الخبر - حي الهدى",
+      "locationEn": "Khobar - Al Huda",
+      "scopeAr": "دهانات داخلية متناسقة مع أرضيات باركيه وأسقف جبسية بإنارة مخفية",
+      "scopeEn": "Interior painting matched with parquet and cove ceiling lights",
+      "image": "/images/portfolio/real-modern-room-parquet.jpg",
+      "coverImage": "/images/portfolio/real-modern-room-parquet.jpg",
+      "gallery": [
+        "/images/portfolio/real-modern-room-parquet.jpg",
+        "/images/portfolio/real-hallway-wood-doors.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "shortDescAr": "تشطيب غرف سكنية فاخرة بألوان أوف وايت دافئة متوافقة مع باركيه البلوط والأبواب الخشبية وإنارة السقف المخفية.",
+      "descriptionAr": "تنفيذ دهان شامل للغرف بأسلوب مينيماليست حديث يعزز الانشراح، مع ضبط أركان الجدران ونظافة تامة للمكان وحماية المفروشات.",
+      "completionDate": "2026",
+      "order": 3
+    },
+    {
+      "id": "proj-real-foam-breeze",
+      "slug": "real-foam-moldings-breeze-limestone-dammam",
+      "category": "decor",
+      "titleAr": "تنفيذ بانوهات فوم ديكورية مع دهان بريز 0552 ولايمستون — الدمام",
+      "titleEn": "Decorative Foam Moldings with Breeze & Limestone Paint — Dammam",
+      "locationAr": "الدمام - حي الشاطئ الغربي",
+      "locationEn": "Dammam - West Shore",
+      "scopeAr": "تركيب إطارات فوم كلاسيكية مع دهانات بريز ولايمستون وإضاءة ليد مخفية",
+      "scopeEn": "Foam molding wall frames, Breeze & Limestone paint with LED cove lighting",
+      "image": "/images/portfolio/real-breeze-limestone-foam.jpg",
+      "coverImage": "/images/portfolio/real-breeze-limestone-foam.jpg",
+      "gallery": [
+        "/images/portfolio/real-breeze-limestone-foam.jpg",
+        "/images/portfolio/real-luxury-foam-moldings.jpg",
+        "/images/portfolio/real-breeze-vanilla-latte.jpg"
+      ],
+      "shortDescAr": "مقارنة وتنفيذ واقعي لدرجات بريز 0552 ولايمستون مع بانوهات فوم كلاسيكية ناعمة وإنارة ليد حائطية دافئة.",
+      "descriptionAr": "تصميم وتنفيذ بانوهات فوم هندسية متناسقة بأبعاد دقيقة ودهانها بدهانات جوتن الأصلية مع إضاءة مخفية علوية وجانبية أضفت طابعاً فندقياً باهراً.",
+      "completionDate": "2026",
+      "order": 2
+    },
+    {
+      "id": "proj-real-limestone",
+      "slug": "real-limestone-hallway-khobar",
+      "category": "interior",
+      "titleAr": "تشطيب ممر ومداخل فيلا عصرية بدهان لايمستون 10341 — الخبر",
+      "titleEn": "Modern Villa Hallway Finished in Limestone 10341 — Khobar",
+      "locationAr": "الخبر - حي الحزام الذهبي",
+      "locationEn": "Khobar - Golden Belt",
+      "scopeAr": "دهانات داخلية جوتن فينوماستيك مطفي درجة لايمستون",
+      "scopeEn": "Interior Jotun Fenomastic Matt Limestone 10341",
+      "image": "/images/portfolio/real-limestone-hallway.jpg",
+      "coverImage": "/images/portfolio/real-limestone-hallway.jpg",
+      "gallery": [
+        "/images/portfolio/real-limestone-hallway.jpg",
+        "/images/portfolio/real-classic-white-corridor.jpg",
+        "/images/catalog/jotun-interior-swatches.jpg"
+      ],
+      "shortDescAr": "تنفيذ دهان ممر داخلي طويل بلون لايمستون 10341 مع إضاءات مدمجة كونسول وتناغم رائع مع الأرضيات الخشبية الفاتحة.",
+      "descriptionAr": "تنفيذ كامل لأعمال معالجة الجدران والتأسيس والسنفرة وطلاء وجهين بدهان جوتن الأصلي لايمستون 10341، مما منح الممر اتساعاً بصرياً ودفئاً أنيقاً.",
+      "completionDate": "2026",
+      "order": 1
+    },
+    {
+      "id": "proj-1",
+      "slug": "modern-villa-khobar",
+      "category": "exterior",
+      "titleAr": "تشطيب واجهة فيلا معمارية مودرن — الخبر",
+      "titleEn": "Modern Villa Facade Finishes — Khobar",
+      "locationAr": "الخبر - الحزام الذهبي",
+      "locationEn": "Khobar - Golden Belt",
+      "scopeAr": "دهانات بروفايل خارجية وعزل جوتاشيلد",
+      "scopeEn": "Exterior profile coating and Jotashield barrier",
+      "image": "/images/portfolio/project-1.webp",
+      "coverImage": "/images/portfolio/project-1.webp",
+      "gallery": [
+        "/images/portfolio/project-1.webp",
+        "/images/services/service-exterior.webp",
+        "/images/services/facade.webp"
+      ],
+      "shortDescAr": "تنفيذ أعمال الدهانات الخارجية المقاومة للرطوبة والحرارة مع إضاءات ليلية متناسقة للواجهات الحجرية والمودرن.",
+      "descriptionAr": "تنفيذ شامل لأعمال دهانات واجهة فيلا سكنية فاخرة بالخبر باستخدام دهانات جوتن جوتاشيلد المقاومة لأملاح ورطوبة الساحل، مع معالجة الشقوق وسقالات آمنة وإبراز التجاويف المعمارية.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-2",
+      "slug": "luxury-facade-dammam",
+      "category": "exterior",
+      "titleAr": "تجديد دهان بروفايل فيلا سكنية — الدمام",
+      "titleEn": "Residential Villa Facade Profile — Dammam",
+      "locationAr": "الدمام - الشاطئ الغربي",
+      "locationEn": "Dammam - West Shore",
+      "scopeAr": "دهان بروفايل عسلي وبيج مقاوم للعوامل الجوية",
+      "scopeEn": "Weather-resistant beige profile paint",
+      "image": "/images/services/service-exterior.webp",
+      "coverImage": "/images/services/service-exterior.webp",
+      "gallery": [
+        "/images/services/service-exterior.webp",
+        "/images/services/service-villas.webp"
+      ],
+      "shortDescAr": "تطبيق دهان بروفايل مقاوم للحرارة والرطوبة يحمي الجدران ويحافظ على ثبات اللون لسنوات طويلة.",
+      "descriptionAr": "إعادة تأهيل ودهان واجهة فيلا سكنية بالدمام بدهانات خارجية مقاومة لأشعة الشمس والحرارة العالية مع تطبيق طبقة أساس عازلة للماء.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-3",
+      "slug": "commercial-facade-qatif",
+      "category": "exterior",
+      "titleAr": "تشطيب واجهة مبنى ومعرض تجاري — القطيف",
+      "titleEn": "Commercial Building Facade — Qatif",
+      "locationAr": "القطيف - حي المجيدية",
+      "locationEn": "Qatif - Majeediah",
+      "scopeAr": "دهانات واجهات خارجية وعوازل مائية",
+      "scopeEn": "Commercial facade paints and waterproofing",
+      "image": "/images/services/facade.webp",
+      "coverImage": "/images/services/facade.webp",
+      "gallery": [
+        "/images/services/facade.webp",
+        "/images/portfolio/project-1.webp"
+      ],
+      "shortDescAr": "تشطيب واجهات مبنى تجاري بارتفاعات متعددة باستخدام سقالات متحركة ودهانات جوتاشيلد المتينة.",
+      "descriptionAr": "تنفيذ أعمال الدهان الخارجي لمبنى تجاري بتدرجات أوف وايت ورمادي مودرن مقاوم للتآكل والظروف المناخية القاسية.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-4",
+      "slug": "royal-navy-living-qatif",
+      "category": "interior",
+      "titleAr": "صالة معيشة بجدار كحلي ملكي وبانوهات فوم — القطيف",
+      "titleEn": "Living Room with Royal Navy Wall — Qatif",
+      "locationAr": "القطيف - حي الشاطئ",
+      "locationEn": "Qatif - Shoreline",
+      "scopeAr": "دهانات داخلية جوتن فينوماستيك وبانوهات جدارية",
+      "scopeEn": "JOTUN Fenomastic interior paint & wall trims",
+      "image": "/images/portfolio/project-3.webp",
+      "coverImage": "/images/portfolio/project-3.webp",
+      "gallery": [
+        "/images/portfolio/project-3.webp",
+        "/images/portfolio/navy-wall.webp",
+        "/images/hero/hero-living-room.webp"
+      ],
+      "shortDescAr": "تطبيق دهانات جوتن بدرجة كحلية ملكية مميزة مع بانوهات جدارية بيضاء وأثاث كلاسيكي راقي.",
+      "descriptionAr": "تصميم وتنفيذ جدار صالة المعيشة بلون كحلي ملكي مخملي مع إطارات وبانوهات فوم كوري عالي الكثافة ودهان باقي الجدران بأوف وايت ناعم قابل للغسيل.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-5",
+      "slug": "modern-apartment-dammam",
+      "category": "interior",
+      "titleAr": "تشطيب دهانات شقة سكنية مودرن — الدمام",
+      "titleEn": "Modern Residential Apartment Painting — Dammam",
+      "locationAr": "الدمام - حي الفيصلية",
+      "locationEn": "Dammam - Faisaliyah",
+      "scopeAr": "دهان كامل للشقة بألوان عصرية هادئة",
+      "scopeEn": "Full apartment coating in serene tones",
+      "image": "/images/services/service-homes.webp",
+      "coverImage": "/images/services/service-homes.webp",
+      "gallery": [
+        "/images/services/service-homes.webp",
+        "/images/services/service-interior.webp"
+      ],
+      "shortDescAr": "دهان صالة وغرف شقة سكنية بدرجات ألوان بيج دافئة تمنح شعوراً بالاتساع والراحة.",
+      "descriptionAr": "تنفيذ أعمال المعجون والصنفرة ودهان الأساس وطبقتي التشطيب لشقة سكنية كاملة خلال 4 أيام فقط مع تسليم نظيف وجاهز للسكن.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-6",
+      "slug": "master-bedroom-khobar",
+      "category": "interior",
+      "titleAr": "دهان غرفة نوم رئيسية وتشطيب فينوماستيك — الخبر",
+      "titleEn": "Master Bedroom Painting — Khobar",
+      "locationAr": "الخبر - الراكة الجنوبية",
+      "locationEn": "Khobar - Rakah South",
+      "scopeAr": "دهانات مهدئة للأعصاب وتشطيب حريري",
+      "scopeEn": "Silk finish relaxing interior paints",
+      "image": "/images/services/service-apartments.webp",
+      "coverImage": "/images/services/service-apartments.webp",
+      "gallery": [
+        "/images/services/service-apartments.webp",
+        "/images/services/service-homes.webp"
+      ],
+      "shortDescAr": "تشطيب غرفة نوم رئيسية بدرجات الزيتوني والأوف وايت المطفي مع مراعاة الإضاءة الطبيعية.",
+      "descriptionAr": "تطبيق دهان جوتن فينوماستيك بيور كلر فائق النعومة والمقاوم للخدش، مع معالجة زوايا الجدران بأعلى دقة ممكنة.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-7",
+      "slug": "luxury-salon-interior-seihat",
+      "category": "interior",
+      "titleAr": "دهانات داخلية فاخرة لصالون استقبال — سيهات",
+      "titleEn": "Reception Salon Interior Painting — Seihat",
+      "locationAr": "سيهات - حي الكوثر",
+      "locationEn": "Seihat - Al Kawthar",
+      "scopeAr": "دهان حريري ناعم وتنسيق إضاءات مخفية",
+      "scopeEn": "Silk smooth finish with integrated lighting",
+      "image": "/images/services/service-interior.webp",
+      "coverImage": "/images/services/service-interior.webp",
+      "gallery": [
+        "/images/services/service-interior.webp",
+        "/images/portfolio/project-3.webp"
+      ],
+      "shortDescAr": "مساحة داخلية متكاملة بألوان بيج وأوف وايت ناعمة وبانوهات متناسقة تعكس الذوق الرفيع.",
+      "descriptionAr": "تنفيذ دهانات داخلية بمستوى فندقي يعتمد التسوية الكاملة للجدران بالمعجون وإزالة أي تموجات مع دهان تشطيب جوتن حريري.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-8",
+      "slug": "majlis-marble-wood-dammam",
+      "category": "decor",
+      "titleAr": "مجلس ضيافة ببديل الرخام وبديل الخشب — الدمام",
+      "titleEn": "Hospitality Majlis with Marble & Wood Slat — Dammam",
+      "locationAr": "الدمام - حي الشاطئ الشرقي",
+      "locationEn": "Dammam - East Shore",
+      "scopeAr": "ألواح بديل رخام لامع وبديل خشب مع ليد مخفي",
+      "scopeEn": "High-gloss marble sheets with wood slats and LED",
+      "image": "/images/portfolio/project-2.webp",
+      "coverImage": "/images/portfolio/project-2.webp",
+      "gallery": [
+        "/images/portfolio/project-2.webp",
+        "/images/portfolio/marble-decoration.webp",
+        "/images/portfolio/clean-p3.webp"
+      ],
+      "shortDescAr": "تصميم جدار خلفية المجلس بألواح بديل الرخام مع بديل الخشب وخطوط إضاءة ليد مخفية أنيقة.",
+      "descriptionAr": "تركيب تشكيلات بديل الرخام المقاوم للرطوبة والحرارة متداخلاً مع شرائح بديل الخشب مع خطوط إضاءة ليد دافئة تضفي طابعاً ملكياً على مجلس الضيافة.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-9",
+      "slug": "tv-wall-marble-khobar",
+      "category": "decor",
+      "titleAr": "جدار شاشة تلفزيون بديل رخام أبيض — الخبر",
+      "titleEn": "TV Feature Wall with White Marble Alternative — Khobar",
+      "locationAr": "الخبر - حي العقربية",
+      "locationEn": "Khobar - Aqrabiyah",
+      "scopeAr": "ديكور جداري ببديل الرخام والشرائح الخشبية",
+      "scopeEn": "Modern TV wall with marble and vertical slats",
+      "image": "/images/portfolio/clean-p3.webp",
+      "coverImage": "/images/portfolio/clean-p3.webp",
+      "gallery": [
+        "/images/portfolio/clean-p3.webp",
+        "/images/portfolio/marble-decoration.webp"
+      ],
+      "shortDescAr": "تنفيذ ديكور تلفزيون عصري يجمع بين عروق الرخام الرمادية وخلفية الخشب الطبيعي وإضاءة خافتة.",
+      "descriptionAr": "قص وتثبيت ألواح بديل الرخام عالي الكثافة بدقة ليزرية مع إخفاء تمديدات الأسلاك وتركيب مفاتيح إضاءة مستقلة.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-10",
+      "slug": "gold-marble-wall-dammam",
+      "category": "decor",
+      "titleAr": "جدار ديكوري بتأثير رخامي ذهبي — الدمام",
+      "titleEn": "Gold Vein Decorative Wall Finish — Dammam",
+      "locationAr": "الدمام - حي المزروعية",
+      "locationEn": "Dammam - Mazrouiyah",
+      "scopeAr": "ديكور بديل الرخام بعروق ذهبية مضيئة",
+      "scopeEn": "Marble alternative with illuminated golden veins",
+      "image": "/images/portfolio/marble-decoration.webp",
+      "coverImage": "/images/portfolio/marble-decoration.webp",
+      "gallery": [
+        "/images/portfolio/marble-decoration.webp",
+        "/images/portfolio/clean-p3.webp"
+      ],
+      "shortDescAr": "جدار ديكوري مميز لمدخل فيلا يمزج بين عروق الرخام الذهبية والإنارة العمودية الساحرة.",
+      "descriptionAr": "تشطيب جدار استقبال رئيسي ببديل الرخام الكالاكاتا مع خطوط ذهبية عاكسة وإطارات فوم فخمة.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-11",
+      "slug": "classic-moulding-hall-qatif",
+      "category": "decor",
+      "titleAr": "بانوهات فوم كلاسيكية لصالة استقبال — القطيف",
+      "titleEn": "Classic Foam Panelling for Reception Hall — Qatif",
+      "locationAr": "القطيف - حي الناصرة",
+      "locationEn": "Qatif - Nassirah",
+      "scopeAr": "تركيب بانوهات فوم ودهان متناسق مع الجدران",
+      "scopeEn": "Architectural foam moulding installation",
+      "image": "/images/services/gold-service-decor-clean.webp",
+      "coverImage": "/images/services/gold-service-decor-clean.webp",
+      "gallery": [
+        "/images/services/gold-service-decor-clean.webp",
+        "/images/portfolio/project-3.webp"
+      ],
+      "shortDescAr": "توزيع إطارات جدارية كلاسيكية متناسقة بدقة هندسية ودهانها بأحدث خامات جوتن فينوماستيك.",
+      "descriptionAr": "تنفيذ بانوهات الفوم على 4 جدران متقابلة لصالون ضيافة مع دهان الحوائط بدرجة أوف وايت لؤلؤي راقي.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-12",
+      "slug": "gypsum-ceiling-circular-khobar",
+      "category": "ceilings",
+      "titleAr": "سقف جبس بورد مودرن بإضاءة دائرية مدمجة — الخبر",
+      "titleEn": "Modern Gypsum Ceiling with Circular Cove — Khobar",
+      "locationAr": "الخبر - الحزام الأخضر",
+      "locationEn": "Khobar - Green Belt",
+      "scopeAr": "تشطيب أسقف جبس بورد ودهان مطفي فائق البياض",
+      "scopeEn": "Gypsum board ceiling with flat white finish",
+      "image": "/images/portfolio/project-4.webp",
+      "coverImage": "/images/portfolio/project-4.webp",
+      "gallery": [
+        "/images/portfolio/project-4.webp",
+        "/images/portfolio/luxury-ceiling.webp",
+        "/images/services/gold-service-ceiling.webp"
+      ],
+      "shortDescAr": "تصميم وتنفيذ سقف صالة معيشة بجبس بورد مودرن وبيوت نور متقنة ودهان ناصع البياض فائق النعومة.",
+      "descriptionAr": "معالجة فواصل الجبس بورد بشرائط الفايبر والمعجون الفرنسي ثم تطبيق وجه أساس وثلاثة أوجه دهان مطفي خاص بالأسقف يمنع أي تموجات ظاهرة تحت الإضاءة.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-13",
+      "slug": "luxury-cove-ceiling-dammam",
+      "category": "ceilings",
+      "titleAr": "دهان أسقف معلقة وبيوت نور ليد مخفية — الدمام",
+      "titleEn": "Suspended Ceiling & Concealed LED Cove — Dammam",
+      "locationAr": "الدمام - حي الحمراء",
+      "locationEn": "Dammam - Hamra",
+      "scopeAr": "دهانات أسقف فندقية وبيوت نور بدون شروخ",
+      "scopeEn": "Crack-free hotel ceiling paint and lighting",
+      "image": "/images/portfolio/luxury-ceiling.webp",
+      "coverImage": "/images/portfolio/luxury-ceiling.webp",
+      "gallery": [
+        "/images/portfolio/luxury-ceiling.webp",
+        "/images/portfolio/project-4.webp"
+      ],
+      "shortDescAr": "أسقف مودرن بإضاءات صفراء دافئة وتوزيع هندسي متقن يبرز رحابة الصالة وفخامة التشطيب.",
+      "descriptionAr": "تنفيذ دهانات الأسقف الجبسية لمجلس رجال رئيسي مع طلاء بيوت النور الداخلية بدهان عاكس يضاعف كفاءة إضاءة الليد.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-14",
+      "slug": "dining-ceiling-seihat",
+      "category": "ceilings",
+      "titleAr": "تشطيب أسقف صالة طعام بدهان مطفي ناصع — سيهات",
+      "titleEn": "Dining Room Ceiling Painting — Seihat",
+      "locationAr": "سيهات - حي الفردوس",
+      "locationEn": "Seihat - Firdaws",
+      "scopeAr": "دهان أسقف جبسية مطفي ومقاوم للرطوبة",
+      "scopeEn": "Moisture-resistant ceiling paint",
+      "image": "/images/services/gold-service-ceiling.webp",
+      "coverImage": "/images/services/gold-service-ceiling.webp",
+      "gallery": [
+        "/images/services/gold-service-ceiling.webp",
+        "/images/portfolio/project-4.webp"
+      ],
+      "shortDescAr": "دهان أسقف ناصع البياض بملمس مخملي خالٍ من أي عيوب أو ظلال عند تشغيل الإضاءة المباشرة.",
+      "descriptionAr": "تطبيق دهان جوتن للأسقف مع سنفرة كهربائية ناعمة بشفاط غبار لضمان سطح أملس تماماً.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-15",
+      "slug": "lacquer-door-refinishing-khobar",
+      "category": "doors",
+      "titleAr": "دهان وتجديد أبواب خشبية لاكيه تركي — الخبر",
+      "titleEn": "Turkish Lacquer Wood Door Painting — Khobar",
+      "locationAr": "الخبر - حي الجسر",
+      "locationEn": "Khobar - Jisr",
+      "scopeAr": "رش أبواب خشبية لاكيه ناعم ومقاوم للخدش",
+      "scopeEn": "Scratch-resistant Turkish lacquer spray",
+      "image": "/images/services/gold-service-door-clean.webp",
+      "coverImage": "/images/services/gold-service-door-clean.webp",
+      "gallery": [
+        "/images/services/gold-service-door-clean.webp",
+        "/images/services/painted-door.webp",
+        "/images/offers/door.webp"
+      ],
+      "shortDescAr": "رش وتجديد أبواب غرف النوم والمداخل بدهان لاكيه أبيض وسيلر تركي يعيد للأبواب رونقها كالجديدة.",
+      "descriptionAr": "فك وتنظيف وصنفرة الأبواب الخشبية ومعالجة الخدوش بالمعجون المخصص للأخشاب ثم رش طبقتي سيلر وطبقتي لاكيه فرن لضمان نعومة الملمس ومقاومة المياه والمنظفات.",
+      "completionDate": "2026"
+    },
+    {
+      "id": "proj-16",
+      "slug": "hotel-doors-painting-dammam",
+      "category": "doors",
+      "titleAr": "رش دهانات أبواب داخلية فندقية — الدمام",
+      "titleEn": "Hotel-Grade Interior Door Spraying — Dammam",
+      "locationAr": "الدمام - حي النورس",
+      "locationEn": "Dammam - Nawras",
+      "scopeAr": "دهان 12 باباً داخلياً بتشطيب بيج مطفي راقي",
+      "scopeEn": "12 interior doors sprayed in beige matte",
+      "image": "/images/services/painted-door.webp",
+      "coverImage": "/images/services/painted-door.webp",
+      "gallery": [
+        "/images/services/painted-door.webp",
+        "/images/services/gold-service-door-clean.webp"
+      ],
+      "shortDescAr": "تجديد كامل لأبواب فيلا سكنية بدهان عالي الجودة مع تغيير المقابض وصنفرة الحواف بدقة متناهية.",
+      "descriptionAr": "معالجة ورش أبواب الفيلا بمعدات الرش الحديثة بدون ترك أي آثار للفرشاة، وتسليم في الوقت المتفق عليه مع نظافة تامة.",
+      "completionDate": "2026"
+    }
+  ],
+  "materials": [
+    {
+      "id": "mat-1",
+      "slug": "calacatta-gold",
+      "titleAr": "رخام كلكتا الإيطالي",
+      "titleEn": "Italian Calacatta Gold Marble",
+      "categoryAr": "رخام طبيعي",
+      "categoryEn": "Natural Marble",
+      "descriptionAr": "أشهر وأرقى أنواع الرخام الأبيض عالمياً، يتميز بخلفية بيضاء ناصعة وعروق ذهبية ورمادية دراماتيكية تجعله الخيار المثالي لطاولات الطعام والديكورات الملكية.",
+      "descriptionEn": "The world's most prestigious white marble, celebrated for its pure luminous milk background and bold, dramatic golden-grey veining.",
+      "coverImage": "/images/factory/slab-calacatta-gold.jpg",
+      "colors": [
+        "أبيض ناصع مع عروق ذهبية",
+        "أبيض دافئ",
+        "رمادي لؤلؤي"
+      ],
+      "availableDimensions": [
+        "سلابات كاملة 300x190 سم",
+        "ألواح طاولات مقصوصة بدقة",
+        "مقاسات مخصصة"
+      ],
+      "thicknessOptions": [
+        "2.0 سم",
+        "3.0 سم",
+        "حواف مصفحة 4.0 و 6.0 سم"
+      ],
+      "technicalSpecsAr": [
+        "المنشأ: محاجر كارارا - إيطاليا",
+        "الكثافة النوعية: 2,710 كجم/م³",
+        "نسبة امتصاص الماء: 0.12% فائق المقاومة",
+        "التشطيب: مصقول عالي اللمعان (Polished) أو حريري مطفأ (Honed)"
+      ],
+      "technicalSpecsEn": [
+        "Origin: Carrara Quarries, Italy",
+        "Bulk Density: 2,710 kg/m³",
+        "Water Absorption: 0.12% Ultra-dense",
+        "Finishes: High-gloss polished or satin honed"
+      ],
+      "pdfSpecSheet": "/brand/stationery/calacatta-gold-specs.pdf",
+      "inStock": true,
+      "order": 1
+    },
+    {
+      "id": "mat-2",
+      "slug": "classic-travertine",
+      "titleAr": "رخام الترافرتين الطبيعي",
+      "titleEn": "Classic Natural Travertine",
+      "categoryAr": "رخام طبيعي",
+      "categoryEn": "Natural Travertine",
+      "descriptionAr": "حجر كلاسيكي خالد يتميز بتموجاته الخطية الهادئة ودفء لونه البيج والعاجي، مثالي للأرضيات وطاولات القهوة والديكورات المعاصرة.",
+      "descriptionEn": "A timeless architectural stone with parallel linear grain veining, coveted for modern architectural volumes and understated luxury interiors.",
+      "coverImage": "/images/factory/slab-travertine-beige.jpg",
+      "colors": [
+        "بيج كلاسيك",
+        "عاجي فاتح",
+        "رمادي سلفر"
+      ],
+      "availableDimensions": [
+        "سلابات كاملة",
+        "طاولات دائرية ومستطيلة",
+        "مقاسات مخصصة"
+      ],
+      "thicknessOptions": [
+        "2.0 سم",
+        "3.0 سم",
+        "كتل مصمتة"
+      ],
+      "technicalSpecsAr": [
+        "الكثافة النوعية: 2,520 كجم/م³",
+        "المعالجة: معجون إيبوكسي شفاف أو مسامات طبيعية مفتوحة",
+        "مقاومة التآكل والاحتكاك: ممتازة للاستخدام اليومي"
+      ],
+      "technicalSpecsEn": [
+        "Bulk Density: 2,520 kg/m³",
+        "Treatment: Resin-filled or natural open-pore brushed",
+        "Wear Resistance: Excellent for residential and boutique hospitality"
+      ],
+      "inStock": true,
+      "order": 2
+    },
+    {
+      "id": "mat-3",
+      "slug": "natural-onyx",
+      "titleAr": "رخام الأونيكس الطبيعي الشفاف",
+      "titleEn": "Translucent Natural Onyx",
+      "categoryAr": "أحجار شبه كريمة",
+      "categoryEn": "Semi-Precious Stone",
+      "descriptionAr": "حجر بلوري استثنائي ينفذ منه الضوء، يمنح الأثاث والكونترات والمجالس تأثيراً ساحراً وإضاءة طبيعية لا مثيل لها.",
+      "descriptionEn": "A rare crystalline stone with natural translucency, transforming tables, bars, and feature walls into illuminated works of art.",
+      "coverImage": "/images/materials_real/slab-onyx-gold.jpg",
+      "colors": [
+        "عسلي كهرماني",
+        "أبيض ثلجي",
+        "وردي وأخضر يشم"
+      ],
+      "availableDimensions": [
+        "ألواح مختارة بعناية",
+        "طاولات قهوة مصمتة",
+        "قص حسب التصميم"
+      ],
+      "thicknessOptions": [
+        "1.8 سم",
+        "2.0 سم"
+      ],
+      "technicalSpecsAr": [
+        "نفاذية الضوء: شبه شفاف بنسبة نفاذ ضوئي عالية",
+        "صلابة استثنائية ولمعان بلوري عميق",
+        "جاهز للدمج مع أنظمة الإضاءة الذكية"
+      ],
+      "technicalSpecsEn": [
+        "Light Translucency: High optical permeability for backlighting",
+        "Hardness: Exceptional deep crystalline vitreous luster",
+        "Engineered for integration with smart dimmable LED systems"
+      ],
+      "inStock": true,
+      "order": 3
+    },
+    {
+      "id": "mat-4",
+      "slug": "dark-emperador",
+      "titleAr": "رخام إمبيرادور الإسباني",
+      "titleEn": "Spanish Dark Emperador Marble",
+      "categoryAr": "رخام طبيعي",
+      "categoryEn": "Natural Marble",
+      "descriptionAr": "رخام إسباني ملكي بلون بني شوكولاتة غني وعروق عنكبوتية ذهبية وبيضاء، يمنح المكاتب والمجالس لمسة دافئة وفخامة مطلقة.",
+      "descriptionEn": "A regal Spanish brown marble with rich chocolate tones and delicate spiderweb golden-white veining, imbuing spaces with opulent warmth.",
+      "coverImage": "/images/factory/slab-emperador-dark.jpg",
+      "colors": [
+        "بني شوكولاتة غني",
+        "بني داكن كستنائي"
+      ],
+      "availableDimensions": [
+        "سلابات كاملة",
+        "مقاسات طاولات ومكاتب"
+      ],
+      "thicknessOptions": [
+        "2.0 سم",
+        "3.0 سم"
+      ],
+      "technicalSpecsAr": [
+        "المنشأ: إسبانيا",
+        "الكثافة النوعية: 2,740 كجم/م³",
+        "التشطيب: مصقول عالي البريق"
+      ],
+      "technicalSpecsEn": [
+        "Origin: Spain",
+        "Bulk Density: 2,740 kg/m³",
+        "Finishing: High-sheen mirror polish"
+      ],
+      "inStock": true,
+      "order": 4
+    },
+    {
+      "id": "mat-5",
+      "slug": "black-granite-absolute",
+      "titleAr": "جرانيت أسود ملكي فائق الصلابة",
+      "titleEn": "Absolute Black Premium Granite",
+      "categoryAr": "جرانيت طبيعي",
+      "categoryEn": "Natural Granite",
+      "descriptionAr": "أسود فحمي نقي ذو بريق معدني خافت، مقاوم تماماً للحرارة والزيوت والسوائل، مثالي لأسطح المطابخ والمكاتب التنفيذية الحديثة.",
+      "descriptionEn": "Deep pure charcoal black with subtle crystalline luster, impervious to stains, heat, and scratches, ideal for executive desks and countertops.",
+      "coverImage": "/images/factory/slab-black-granite.jpg",
+      "colors": [
+        "أسود نقي معتم",
+        "أسود جلاكسي مع نقاط ذهبية"
+      ],
+      "availableDimensions": [
+        "ألواح عملاقة 320x200 سم",
+        "أسطح مقصوصة بالمليمتر"
+      ],
+      "thicknessOptions": [
+        "2.0 سم",
+        "3.0 سم"
+      ],
+      "technicalSpecsAr": [
+        "الكثافة النوعية: 2,980 كجم/م³ فائق الصلابة",
+        "نسبة امتصاص الماء: 0.02% صفرية عملياً",
+        "صلابة موس: 7 درجات (أعلى من الفولاذ)"
+      ],
+      "technicalSpecsEn": [
+        "Bulk Density: 2,980 kg/m³ Extreme density",
+        "Water Absorption: 0.02% Virtually impervious",
+        "Mohs Hardness: 7 (harder than steel)"
+      ],
+      "inStock": true,
+      "order": 5
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-1",
+      "slug": "modern-paint-colors-guide-2026",
+      "titleAr": "دليل اختيار ألوان الدهانات العصرية للمنازل والفلل في 2026",
+      "titleEn": "Modern Paint Colors Guide for Homes 2026",
+      "category": "ألوان ودهانات 2026",
+      "coverImage": "/images/catalog/jotun-popular-colors-2027.jpg",
+      "image": "/images/catalog/jotun-popular-colors-2027.jpg",
+      "date": "2026-02-15",
+      "publishedAt": "15 فبراير 2026",
+      "readTime": "5 دقائق قراءة",
+      "author": "مهندس الديكور — القصر الذهبي",
+      "excerptAr": "تعرف على أبرز درجات الألوان الهادئة والفخمة من جوتن (Greige & Royal Navy) التي تمنح الصالات وغرف النوم وسعاً وراحة نفسية راقية.",
+      "excerptEn": "Explore trending paint palettes that add space, serenity, and luxury to living rooms and bedrooms.",
+      "contentAr": "\n    <p class=\"text-base text-slate-700 leading-relaxed mb-6 font-medium\">\n      يعتبر اختيار ألوان دهانات المنزل الخطوة الجوهرية في تحديد هوية مساحتك السكنية وروح المكان. في عام 2026 و 2027، تشهد اتجاهات التصميم الداخلي في الشرقية تحولاً نحو الألوان الطبيعية الهادئة من الأبيض الهادئ والرمادي الفاتح إلى الجريج (Greige)، مع الاعتماد التام على خامات دهانات جوتن فينوماستيك القابلة للغسيل.\n    </p>\n\n    <div class=\"my-8 rounded-3xl overflow-hidden shadow-xl border border-slate-200\">\n      <img src=\"/images/catalog/jotun-popular-colors-2027.jpg\" alt=\"دليل ألوان جوتن الأكثر طلباً لعام 2027\" class=\"w-full object-cover\" />\n      <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-bold\">\n        دليل الألوان الأكثر طلباً: لايمستون، أيفوري، تايملس، ساند، فانيلا لاتيه، سكاي لايت، سمر سنو، أكسفورد ريفر، كلاسيك وايت، بريز\n      </p>\n    </div>\n\n    <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n      1. درجات لايمستون (Limestone 10341) وبريز (Breeze 0552)\n    </h3>\n    <p class=\"text-slate-700 leading-relaxed mb-6\">\n      تعتبر درجة لايمستون 10341 الاختيار الأرقى حالياً لصالات الاستقبال والممرات؛ فهي تجمع بين دفء الحجر الطبيعي وأناقة اللون الهادئ المريح للأعصاب، بينما تعطي درجة بريز 0552 انتعاشاً ناعماً يتناسق بامتياز مع البانوهات الجدارية.\n    </p>\n\n    <div class=\"my-8 rounded-3xl overflow-hidden shadow-xl border border-slate-200\">\n      <img src=\"/images/portfolio/real-breeze-limestone-foam.jpg\" alt=\"مقارنة واقعية بين بريز ولايمستون مع بانوهات فوم\" class=\"w-full object-cover\" />\n      <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-bold\">\n        تطبيق واقعي من أعمال القصر الذهبي: مقارنة لون بريز ولايمستون مع بانوهات فوم وإضاءة مخفية\n      </p>\n    </div>\n\n    <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n      2. اختيارات ألوان الدهان الداخلية المعتمدة\n    </h3>\n    <p class=\"text-slate-700 leading-relaxed mb-6\">\n      نستعرض معكم درجات الألوان العشر المعتمدة بأكواد جوتن الرسمية لتختار منها ما يناسب أثاثك وإضاءة غرفتك:\n    </p>\n\n    <div class=\"my-8 rounded-3xl overflow-hidden shadow-xl border border-slate-200\">\n      <img src=\"/images/catalog/jotun-interior-swatches.jpg\" alt=\"كتالوج اختيارات ألوان الدهان الداخلية\" class=\"w-full object-cover\" />\n      <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-bold\">\n        الكتالوج المعتمد لاختيارات ألوان الدهان الداخلية بأكواد جوتن الأصلية\n      </p>\n    </div>\n\n    <div class=\"p-6 rounded-2xl bg-amber-50/80 border border-[#D4A63D]/40 text-slate-800 space-y-2 mb-8\">\n      <h4 class=\"font-bold text-[#A87818] text-sm flex items-center gap-2\">\n        <span>💡 نصيحة مهندس الديكور في القصر الذهبي:</span>\n      </h4>\n      <p class=\"text-xs text-slate-700 leading-relaxed\">\n        قبل أن تبدأ بدهان كامل الغرفة، يوفر لك فريق القصر الذهبي بالدمام والخبر والقطيف عينة دهان مجانية على جدارك لتختبر اللون مع إضاءة منزلك الفعلية صباحاً ومساءً. اتصل بنا على 0561095508 لحجز المعاينة المجانية.\n      </p>\n    </div>\n  "
+    },
+    {
+      "id": "art-2",
+      "slug": "marble-wood-alternatives-ideas",
+      "titleAr": "أفكار تنسيق بديل الرخام وبديل الخشب في المجالس والصالات الفاخرة",
+      "titleEn": "Styling Marble and Wood Alternatives in Majlis",
+      "category": "ديكورات وبدائل عصرية",
+      "coverImage": "/images/portfolio/marble-decoration.webp",
+      "image": "/images/portfolio/marble-decoration.webp",
+      "date": "2026-02-10",
+      "publishedAt": "10 فبراير 2026",
+      "readTime": "4 دقائق قراءة",
+      "author": "قسم الديكور — القصر الذهبي",
+      "excerptAr": "كيف تدمج ألواح بديل الرخام اللامعة مع بديل الخشب المضلع وخطوط الإضاءة المخفية للحصول على جدار خلفية شاشة فاخر.",
+      "excerptEn": "How to combine gloss marble sheets with acoustic wood slats and LED channels.",
+      "contentAr": "\n      <p class=\"text-base text-slate-700 leading-relaxed mb-6 font-medium\">\n        يعد الجمع بين فخامة بديل الرخام ودفء بديل الخشب من أكثر صيحات الديكور الحديث طلباً في المنطقة الشرقية. يمنح هذا التناسق جدران التلفزيون ومداخل المجالس مظهراً عصرياً فائق الأناقة بتكلفة اقتصادية مقارنة بالرخام الطبيعي وبدون وزن ثقيل على الجدران.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/portfolio/project-2.webp\" alt=\"جدار شاشة متكامل ببديل الرخام والخشب\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          تنفيذ خلفية تلفزيون تجمع بديل الرخام في المنتصف مع شرائح بديل الخشب الجانبية\n        </p>\n      </div>\n\n      <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n        أسرار التنسيق الهندسي المتكامل\n      </h3>\n      <p class=\"text-slate-700 leading-relaxed mb-6\">\n        للحصول على نتيجة تضاهي أرقى الفنادق، يتم تثبيت لوح بديل الرخام (غالباً بنقشة عروق رمادية أو ذهبية) في منتصف الجدار خلف الشاشة المعلقة، وإحاطته من الجانبين بشرائح بديل الخشب (WPC) المعالجة ضد الرطوبة والحشرات.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/portfolio/clean-p3.webp\" alt=\"جدار رخامي مضيء في صالة استقبال\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          إضاءة وورم لايت (Warm Light) مخفية خلف حواف بديل الرخام تبرز التفاصيل\n        </p>\n      </div>\n\n      <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n        دور بروفيلات الألمنيوم الذهبية وشرائط الليد\n      </h3>\n      <p class=\"text-slate-700 leading-relaxed mb-6\">\n        تكمن اللمسة الاحترافية في إضافة قواطع استانلس ستيل ذهبية مقاومة للصدأ بين الألواح مع دفن شرائط إضاءة ليد غير مرئية مباشرة، مما يخلق تبايناً ضوئياً ساحراً يبرز نعومة الرخام وبروزات الخشب.\n      </p>\n    "
+    },
+    {
+      "id": "art-3",
+      "slug": "ceiling-painting-guide",
+      "titleAr": "خطوات دهان الأسقف الجبسية ومعالجة فواصل الجبس بورد بدون تشققات",
+      "titleEn": "Steps to Paint Gypsum Ceilings & Seam Treatment",
+      "category": "تشطيب الأسقف والجبس",
+      "coverImage": "/images/portfolio/luxury-ceiling.webp",
+      "image": "/images/portfolio/luxury-ceiling.webp",
+      "date": "2026-02-02",
+      "publishedAt": "2 فبراير 2026",
+      "readTime": "4 دقائق قراءة",
+      "author": "فريق التنفيذ — القصر الذهبي",
+      "excerptAr": "أهم النصائح الهندسية لضمان سقف مستوٍ تماماً بدون عيوب أو فواصل ظاهرة مع إبراز بيوت النور والإضاءة المخفية.",
+      "excerptEn": "Key technical tips for flawless, crack-free gypsum ceiling finish.",
+      "contentAr": "\n      <p class=\"text-base text-slate-700 leading-relaxed mb-6 font-medium\">\n        دهان الأسقف الجبسية من أكثر مراحل التشطيب حساسية، حيث تكشف الإضاءات المباشرة والمخفية (بيوت النور) أي تعرجات أو فواصل غير معالجة بدقة. إليكم المراحل الاحترافية التي يعتمدها فنيو القصر الذهبي.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/services/gold-service-ceiling.webp\" alt=\"تشطيب سقف جبسي ناصع البياض\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          سقف جبس بورد مستوٍ تماماً بدهان مطفي فائق البياض يمنع الانعكاسات المزعجة\n        </p>\n      </div>\n\n      <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n        1. شريط الفواصل (Mesh Tape) ومعجون الجبس المقاوم\n      </h3>\n      <p class=\"text-slate-700 leading-relaxed mb-6\">\n        تبدأ معالجة السقف بتثبيت شريط الفواصل الفيبر عالي الالتصاق على كافة نقاط التقاء ألواح الجبس، ثم سحب طبقتين من معجون الفواصل المخصص وتركه يجف تماماً لمنع حدوث شروخ مستقبلية نتيجة التمدد الحراري.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/portfolio/project-4.webp\" alt=\"إضاءات دائرية مدمجة وسقف مودرن\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          توزيع إضاءات سبوت لايت مدمجة بسلاسة داخل الأسقف المنفذة\n        </p>\n      </div>\n\n      <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n        2. الصنفرة الميكانيكية والدهان المطفي فائق البياض\n      </h3>\n      <p class=\"text-slate-700 leading-relaxed mb-6\">\n        بعد مرحلة المعجون، تتم الصنفرة باستخدام ماكينات شفط الغبار لضمان سطح أملس كالحرير، تليها طبقة أساس مائي (Primer)، ثم وجهين من دهان جوتن المطفي الناصع (Dead Flat Matte) الذي يخفي أي تموجات بصرية.\n      </p>\n    "
+    },
+    {
+      "id": "art-4",
+      "slug": "villa-facades-jotashield-profile-guide",
+      "titleAr": "أفضل دهانات الواجهات الخارجية المقاومة لرطوبة وحرارة الشرقية (بروفايل وجوتاشيلد)",
+      "titleEn": "Exterior Facade Paint Guide for Eastern Province",
+      "category": "دهانات خارجية وواجهات",
+      "coverImage": "/images/services/service-exterior.webp",
+      "image": "/images/services/service-exterior.webp",
+      "date": "2026-01-25",
+      "publishedAt": "25 يناير 2026",
+      "readTime": "6 دقائق قراءة",
+      "author": "استشاري الواجهات — القصر الذهبي",
+      "excerptAr": "دليلك لحماية واجهة فيلتك من الرطوبة الساحلية والتملح والأشعة فوق البنفسجية في الدمام والخبر والقطيف.",
+      "excerptEn": "Protect your villa exterior from coastal humidity, UV rays, and salt with Jotashield and profile textures.",
+      "contentAr": "\n      <p class=\"text-base text-slate-700 leading-relaxed mb-6 font-medium\">\n        تفرض الظروف المناخية في المنطقة الشرقية (ارتفاع الرطوبة الساحلية والحرارة المرتفعة) متطلبات صارمة على دهانات الواجهات الخارجية للفلل والمباني. اختيار خامة مقاومة للتشققات والتملح يحمي استثمارك العقاري لعشرات السنين.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/portfolio/project-1.webp\" alt=\"واجهة فيلا معمارية بتشطيب دهان خارجي مودرن\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          واجهة فيلا سكنية حديثة بالخبر منفذة بأنظمة جوتاشيلد المقاومة للحرارة\n        </p>\n      </div>\n\n      <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n        مميزات دهان البروفايل الإسمنتي المحبب\n      </h3>\n      <p class=\"text-slate-700 leading-relaxed mb-6\">\n        يعتبر دهان البروفايل (Profile Texture) من أنجح الحلول للواجهات؛ فهو يشكل طبقة بسماكة ملموسة تعزل الجدران، وتخفي عيوب اللياسة، وتقاوم الخدوش والعوامل الجوية بكفاءة متناهية مع خيارات متعددة من درجات التدرج الرملي والبيج.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/services/facade.webp\" alt=\"تشطيب مبنى تجاري ودهانات عازلة\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          عزل مائي وحراري للواجهات باستخدام دهانات جوتن تكس كولور المضادة للأشعة فوق البنفسجية\n        </p>\n      </div>\n    "
+    },
+    {
+      "id": "art-5",
+      "slug": "wooden-doors-lacquer-restoration",
+      "titleAr": "طريقة تجديد ودهان الأبواب الخشبية القديمة بتقنية اللاكيه والرش الفندقي",
+      "titleEn": "Restoring and Spraying Wooden Doors with Lacquer",
+      "category": "تجديد ودهان الأبواب",
+      "coverImage": "/images/services/gold-service-door-clean.webp",
+      "image": "/images/services/gold-service-door-clean.webp",
+      "date": "2026-01-18",
+      "publishedAt": "18 يناير 2026",
+      "readTime": "4 دقائق قراءة",
+      "author": "ورشة الدهانات — القصر الذهبي",
+      "excerptAr": "وفر تكلفة شراء أبواب جديدة؛ جدد أبواب شقتك أو فيلتك بدهان لاكيه تركي ناعم بملمس فندقي يبدأ من 90 ريال للباب.",
+      "excerptEn": "Restoring your interior wooden doors with Turkish lacquer spray finish from 90 SAR.",
+      "contentAr": "\n      <p class=\"text-base text-slate-700 leading-relaxed mb-6 font-medium\">\n        تتعرض الأبواب الداخلية والخارجية للاحتكاك المستمر وتغير اللون مع مرور الوقت. بدلاً من استبدال الأبواب بتكاليف باهظة، توفر خدمة دهان وتجديد الأبواب لدى القصر الذهبي إعادة إحياء كاملة للباب بمظهر فندقي جديد كلياً.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/offers/door.webp\" alt=\"باب خشبي بعد التجديد والدهان بالرش\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          باب شقة داخلي بعد سنفرة الدهان القديم ورشه بدهان لاكيه حريري ناعم\n        </p>\n      </div>\n\n      <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n        خطوات العمل: معالجة، تأسيس، ورش متجانس\n      </h3>\n      <p class=\"text-slate-700 leading-relaxed mb-6\">\n        يتم فك المقابض وحماية الإطارات، تليها معالجة الخدوش بمعجون الخشب الخاص وسنفرة السطح حتى زوال الشوائب، ثم رش طبقة الأساس البولي يوريثان، وانتهاءً برشه بطبقتين من اللاكيه المقاوم للماء بمكبس هوائي متطور بدون أي أثر لآثار الفرشاة.\n      </p>\n    "
+    },
+    {
+      "id": "art-6",
+      "slug": "wall-foam-moulding-classic-decor",
+      "titleAr": "دليل تركيب وتنسيق بانوهات الفوم الكلاسيكية في المداخل والممرات وصالات الاستقبال",
+      "titleEn": "Wall Foam Mouldings Guide for Hallways & Majlis",
+      "category": "بانوهات الفوم الكلاسيكية",
+      "coverImage": "/images/services/gold-service-decor-clean.webp",
+      "image": "/images/services/gold-service-decor-clean.webp",
+      "date": "2026-01-10",
+      "publishedAt": "10 يناير 2026",
+      "readTime": "5 دقائق قراءة",
+      "author": "فريق التصميم — القصر الذهبي",
+      "excerptAr": "أسرار قياس وتوزيع إطارات الفوم الديكورية على الجدران وتنسيقها مع الإضاءات الجدارية والدهانات الحريرية.",
+      "excerptEn": "Proportional spacing and layout of classic wall moulding panels with sconce lighting.",
+      "contentAr": "\n      <p class=\"text-base text-slate-700 leading-relaxed mb-6 font-medium\">\n        تعتبر بانوهات الفوم الكلاسيكية (Wall Mouldings) من أجمل اللمسات المعمارية التي تحول الجدران الصامتة في الممرات والصالات إلى لوحات فنية راقية بتناغم بصري مدروس.\n      </p>\n\n      <div class=\"my-8 rounded-3xl overflow-hidden shadow-lg border border-slate-200\">\n        <img src=\"/images/portfolio/project-3.webp\" alt=\"بانوهات فوم كلاسيكية في صالة معيشة\" class=\"w-full h-80 object-cover\" />\n        <p class=\"text-xs text-center text-slate-500 py-3 bg-slate-50 border-t border-slate-100 font-semibold\">\n          إطارات فوم مزدوجة مع إنارة جدارية تعطي عمقاً وفخامة للجدار\n        </p>\n      </div>\n\n      <h3 class=\"text-xl sm:text-2xl font-black text-[#081B33] mb-4\">\n        قواعد التوزيع والنسب الهندسية\n      </h3>\n      <p class=\"text-slate-700 leading-relaxed mb-6\">\n        يحرص فنيونا على قياس الجدار بدقة بالليزر لضمان مسافات متساوية بين الإطارات (بين 10 إلى 15 سم بين كل إطار وآخر)، مع دهان الفوم بنفس درجة دهان الجدار لدمجه بسلاسة كأنه جزء أصيل من الجدار المعماري.\n      </p>\n    "
+    }
+  ],
+  "quotations": [
+    {
+      "id": "quot-101",
+      "referenceNumber": "EET-2026-0042",
+      "customerName": "عبدالرحمن بن سعد الخالدي",
+      "phone": "0555123456",
+      "email": "a.khaledi@example.com",
+      "city": "المنطقة الشرقية",
+      "projectLocation": "حي النرجس - شمال المنطقة الشرقية",
+      "requiredService": "طاولات الطعام الرخامية",
+      "projectType": "فيلا سكنية خاصة",
+      "approximateArea": "طاولة 12 مقعد (320x120 سم)",
+      "materialPreferences": "رخام كلكتا جولد إيطالي مع حواف مشطوفة وقاعدة ذهبية",
+      "description": "نود تفصيل طاولة طعام رخامية فاخرة مع بوفيه خدمة متناسق العروق وفق المخطط الداخلي المرفق.",
+      "attachments": [],
+      "preferredContact": "phone",
+      "status": "New",
+      "internalNotes": "العميل بانتظار اتصال المهندس لمراجعة مقاسات صالة الطعام واعتماد عينة الكلكتا.",
+      "createdAt": "2026-11-04T10:15:00Z",
+      "updatedAt": "2026-11-09T13:30:15.220Z"
+    },
+    {
+      "id": "quot-102",
+      "referenceNumber": "EET-2026-0041",
+      "customerName": "شركة إعمار التطوير العقارية",
+      "phone": "0544987654",
+      "email": "projects@emaar-dev.sa",
+      "city": "المنطقة الشرقية",
+      "projectLocation": "طريق الملك سلمان - حي الصحافة",
+      "requiredService": "المكاتب والفرش التنفيذي الحجري",
+      "projectType": "مقر إداري رئيسي",
+      "approximateArea": "مكتب رئيسي + كونتر استقبال بطول 4 أمتار",
+      "materialPreferences": "رخام أسود نرويجي مع رخام ستاتوريو مضيء",
+      "description": "مطلوب تفصيل مكتب تنفيذي فاخر لرئيس مجلس الإدارة مع كونتر استقبال رئيسي بالبهو.",
+      "attachments": [],
+      "preferredContact": "whatsapp",
+      "status": "Under Review",
+      "internalNotes": "تم فحص المخططات المعمارية المرفقة، بانتظار معاينة الموقع بالصحافة.",
+      "createdAt": "2026-11-03T14:30:00Z",
+      "updatedAt": "2026-11-04T09:00:00Z"
+    },
+    {
+      "id": "quot-103",
+      "referenceNumber": "EET-2026-0040",
+      "customerName": "د. خالد التميمي",
+      "phone": "0501122334",
+      "email": "k.tamimi@hospital.sa",
+      "city": "المنطقة الشرقية",
+      "projectLocation": "حي الملقا",
+      "requiredService": "ديكورات وتكسيات المجالس الفاخرة",
+      "projectType": "قصر خاص",
+      "approximateArea": "مجلس 14x8 متر",
+      "materialPreferences": "رخام أونيكس عسلي مضيء وبوك ماتش للصالات والمجالس",
+      "description": "تكسية جدارية متناظرة لمجلس الضيافة مع طاولات قهوة وخدمة من نفس نوع الرخام.",
+      "attachments": [],
+      "preferredContact": "phone",
+      "status": "Quoted",
+      "internalNotes": "تم تقديم عرض السعر التفصيلي مع عينات الرخام المعتمدة.",
+      "createdAt": "2026-11-01T11:00:00Z",
+      "updatedAt": "2026-11-02T16:20:00Z"
+    },
+    {
+      "customerName": "تجربة فحص الأمان",
+      "phone": "0561095508",
+      "email": "test@alqasraldhahabi.com",
+      "city": "المنطقة الشرقية",
+      "projectLocation": "المنطقة الشرقية",
+      "requiredService": "استفسار تواصل",
+      "projectType": "استفسار تجريبي",
+      "description": "رسالة فحص للتأكد من وصول واستقرار النماذج 100%",
+      "attachments": [],
+      "preferredContact": "phone",
+      "internalNotes": "",
+      "id": "quote-1794260585238",
+      "referenceNumber": "EET-830466",
+      "status": "New",
+      "createdAt": "2026-11-09T21:43:05.238Z",
+      "updatedAt": "2026-11-09T21:43:05.238Z"
+    },
+    {
+      "customerName": "فحص اختبار سلامة النظام",
+      "phone": "0530000000",
+      "email": "test-audit@alqasraldhahabi.com",
+      "city": "المنطقة الشرقية",
+      "projectLocation": "المنطقة الشرقية",
+      "requiredService": "طاولات طعام فاخرة",
+      "projectType": "سكني",
+      "approximateArea": "50",
+      "description": "طلب تجريبي لاختبار سلامة الأزرار ونماذج التسعير",
+      "attachments": [],
+      "preferredContact": "phone",
+      "internalNotes": "",
+      "id": "quote-1794745012424",
+      "referenceNumber": "EET-205872",
+      "status": "New",
+      "createdAt": "2026-11-15T12:16:52.424Z",
+      "updatedAt": "2026-11-15T12:16:52.424Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "إدارة القصر الذهبي",
+      "email": "admin@alqasraldhahabi.com",
+      "passwordHash": "$2b$10$fcpeaWS2aWPWkHQXkM7c5eE8oNlkyqrFd5XvoZ7zovo2gb8.apzYy",
+      "role": "super_admin",
+      "active": true,
+      "createdAt": "2026-11-22T01:23:34.551Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "nameAr": "عروض وباقات الغرف",
+      "nameEn": "Room Packages",
+      "slug": "room-offers",
+      "order": 1
+    },
+    {
+      "id": "cat-2",
+      "nameAr": "الأسقف والأبواب",
+      "nameEn": "Ceilings & Doors",
+      "slug": "ceilings-doors",
+      "order": 2
+    },
+    {
+      "id": "cat-3",
+      "nameAr": "الديكورات والبدائل العصرية",
+      "nameEn": "Wall Decor & Panels",
+      "slug": "decor-panels",
+      "order": 3
+    },
+    {
+      "id": "cat-4",
+      "nameAr": "واجهات الفلل والمباني",
+      "nameEn": "Facades & Exterior",
+      "slug": "exterior",
+      "order": 4
+    }
+  ],
+  "products": [
+    {
+      "id": "prod-1",
+      "slug": "three-rooms-offer",
+      "titleAr": "عرض دهان 3 غرف",
+      "titleEn": "3 Rooms Painting Offer",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 1000,
+      "oldPrice": 1300,
+      "showPrice": true,
+      "priceUnitAr": "ريال",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/real-modern-room-parquet.jpg",
+      "coverImage": "/images/portfolio/real-modern-room-parquet.jpg",
+      "gallery": [
+        "/images/portfolio/real-modern-room-parquet.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg",
+        "/images/portfolio/real-breeze-limestone-foam.jpg",
+        "/images/portfolio/real-classic-white-corridor.jpg"
+      ],
+      "descriptionAr": "الباقة الكبرى لدهان 3 غرف بسعر مميز جداً وتشطيب احترافي عالي الجودة بخامات جوتن ونظافة تامة لمكان العمل.",
+      "descriptionEn": "Grand package for painting 3 full rooms using certified JOTUN paints with complete putty, sanding and cleanup.",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "prod-2",
+      "slug": "two-rooms-offer",
+      "titleAr": "عرض دهان غرفتين",
+      "titleEn": "2 Rooms Painting Offer",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 700,
+      "oldPrice": 1000,
+      "showPrice": true,
+      "priceUnitAr": "ريال",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/real-breeze-limestone-foam.jpg",
+      "coverImage": "/images/portfolio/real-breeze-limestone-foam.jpg",
+      "gallery": [
+        "/images/portfolio/real-breeze-limestone-foam.jpg",
+        "/images/catalog/real-color-comparison-swatch.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "descriptionAr": "عرض دهان غرفتين بتشطيب فندقي متقن بدهانات جوتن الأصلية، شامل كافة مراحل التأسيس والسنفرة والتشطيب النهائي.",
+      "descriptionEn": "Hotel-quality paint package for 2 rooms with surface prep, primer and dual topcoats.",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "prod-3",
+      "slug": "one-room-offer",
+      "titleAr": "عرض دهان الغرفة الواحدة",
+      "titleEn": "Single Room Painting Offer",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 500,
+      "oldPrice": 700,
+      "showPrice": true,
+      "priceUnitAr": "ريال",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/real-breeze-vanilla-latte.jpg",
+      "coverImage": "/images/portfolio/real-breeze-vanilla-latte.jpg",
+      "gallery": [
+        "/images/portfolio/real-breeze-vanilla-latte.jpg",
+        "/images/catalog/jotun-interior-swatches.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "descriptionAr": "عرض متكامل لدهان غرفة واحدة بدهانات جوتن الأصلية، يشمل معالجة الشقوق بالمعجون، وجه سنفرة، وجه أساس، ووجهين تشطيب.",
+      "descriptionEn": "Complete single room package with crack repair, smooth sanding, primer, and washable topcoat.",
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": "prod-4",
+      "slug": "ceiling-painting-offer",
+      "titleAr": "عرض دهان وتشطيب السقف",
+      "titleEn": "Ceiling Painting Offer",
+      "categoryId": "cat-2",
+      "categorySlug": "ceilings-doors",
+      "categoryAr": "الأسقف والأبواب",
+      "categoryEn": "Ceilings & Doors",
+      "price": 100,
+      "oldPrice": 150,
+      "showPrice": true,
+      "priceUnitAr": "ريال / للغرفة",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/real-hallway-wood-doors.jpg",
+      "coverImage": "/images/portfolio/real-hallway-wood-doors.jpg",
+      "gallery": [
+        "/images/portfolio/real-hallway-wood-doors.jpg",
+        "/images/portfolio/real-modern-room-parquet.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "descriptionAr": "دهان الأسقف والجبس بورد بدهانات بيضاء مطفية ناصعة ومقاومة للرطوبة والانعكاس مع تشطيب متقن لبيوت النور.",
+      "descriptionEn": "Flat white ceiling coating engineered for seamless gypsum seams and concealed cove illumination.",
+      "featured": true,
+      "order": 4
+    },
+    {
+      "id": "prod-5",
+      "slug": "door-painting-offer",
+      "titleAr": "عرض دهان وتجديد الباب",
+      "titleEn": "Door Lacquer Refinishing Offer",
+      "categoryId": "cat-2",
+      "categorySlug": "ceilings-doors",
+      "categoryAr": "الأسقف والأبواب",
+      "categoryEn": "Ceilings & Doors",
+      "price": 90,
+      "oldPrice": 130,
+      "showPrice": true,
+      "priceUnitAr": "ريال / للباب",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/real-greige-painted-door.jpg",
+      "coverImage": "/images/portfolio/real-greige-painted-door.jpg",
+      "gallery": [
+        "/images/portfolio/real-greige-painted-door.jpg",
+        "/images/portfolio/real-hallway-wood-doors.jpg",
+        "/images/brand/official-golden-palace-flyer.jpg"
+      ],
+      "descriptionAr": "دهان وصنفرة وتجديد الأبواب الخشبية بدهانات لاكيه وسيلر تركي ناعم ومقاوم للخدش والمسح المتكرر.",
+      "descriptionEn": "High-durability wood lacquer refinishing, smoothing, and protective coating for residential doors.",
+      "featured": true,
+      "order": 5
+    },
+    {
+      "id": "prod-6",
+      "slug": "marble-decor-offer",
+      "titleAr": "ديكور بديل الرخام وبديل الخشب",
+      "titleEn": "Marble & Wood Alternative Decor",
+      "categoryId": "cat-3",
+      "categorySlug": "decor-panels",
+      "categoryAr": "الديكورات والبدائل العصرية",
+      "categoryEn": "Modern Decor & Panels",
+      "price": 450,
+      "oldPrice": 600,
+      "showPrice": true,
+      "priceUnitAr": "ريال / للمتر",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/marble-decoration.webp",
+      "coverImage": "/images/portfolio/marble-decoration.webp",
+      "gallery": [
+        "/images/portfolio/marble-decoration.webp",
+        "/images/portfolio/project-2.webp",
+        "/images/portfolio/clean-p3.webp"
+      ],
+      "descriptionAr": "توريد وتركيب ألواح بديل الرخام عالي اللمعان المقاوم للماء والحرارة مع شرائح بديل الخشب وإضاءات ليد مخفية خلف التلفزيون أو بالمجالس.",
+      "descriptionEn": "Premium high-gloss PVC marble alternative sheets with fluted wood slats and LED cove channels.",
+      "featured": true,
+      "order": 6
+    },
+    {
+      "id": "prod-7",
+      "slug": "foam-mouldings-offer",
+      "titleAr": "بانوهات الفوم الكلاسيكية الفاخرة",
+      "titleEn": "Classic Wall Mouldings & Foam Panelling",
+      "categoryId": "cat-3",
+      "categorySlug": "decor-panels",
+      "categoryAr": "الديكورات والبدائل العصرية",
+      "categoryEn": "Modern Decor & Panels",
+      "price": 35,
+      "oldPrice": 50,
+      "showPrice": true,
+      "priceUnitAr": "ريال / للمتر الطولي",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/real-luxury-foam-moldings.jpg",
+      "coverImage": "/images/portfolio/real-luxury-foam-moldings.jpg",
+      "gallery": [
+        "/images/portfolio/real-luxury-foam-moldings.jpg",
+        "/images/portfolio/real-breeze-limestone-foam.jpg",
+        "/images/portfolio/real-breeze-vanilla-latte.jpg"
+      ],
+      "descriptionAr": "تركيب إطارات وبانوهات الفوم الكوري عالي الكثافة مع دهانها بألوان الحوائط لتمنح صالتك أو مجلسك طابعاً ملكياً فخماً.",
+      "descriptionEn": "High-density architectural foam wall mouldings painted seamlessly to match your luxury wall color.",
+      "featured": true,
+      "order": 7
+    },
+    {
+      "id": "prod-8",
+      "slug": "navy-accent-wall-offer",
+      "titleAr": "جدار كحلي ملكي (Royal Navy Accent Wall)",
+      "titleEn": "Royal Navy Luxury Accent Wall",
+      "categoryId": "cat-3",
+      "categorySlug": "decor-panels",
+      "categoryAr": "الديكورات والبدائل العصرية",
+      "categoryEn": "Modern Decor & Panels",
+      "price": 350,
+      "oldPrice": 500,
+      "showPrice": true,
+      "priceUnitAr": "ريال / للجدار",
+      "priceUnitEn": "SAR",
+      "image": "/images/portfolio/navy-wall.webp",
+      "coverImage": "/images/portfolio/navy-wall.webp",
+      "gallery": [
+        "/images/portfolio/navy-wall.webp",
+        "/images/portfolio/project-3.webp"
+      ],
+      "descriptionAr": "دهان جدار مميز بلون كحلي ملكي عميق مطفي مع معالجة حواف دقيقة وإنارة جدارية راقية تبرز فخامة أثاث الصالة.",
+      "descriptionEn": "Signature royal navy feature wall applied with deep velvet matte JOTUN Fenomastic coatings.",
+      "featured": true,
+      "order": 8
+    },
+    {
+      "id": "prod-9",
+      "slug": "villas-package-offer",
+      "titleAr": "باقة تشطيب الفلل والقصور السكنية",
+      "titleEn": "Villa & Palace Complete Painting Package",
+      "categoryId": "cat-4",
+      "categorySlug": "exterior",
+      "categoryAr": "واجهات الفلل والمباني",
+      "categoryEn": "Villas & Facades",
+      "price": 1800,
+      "oldPrice": 2400,
+      "showPrice": true,
+      "priceUnitAr": "ريال / عرض خاص",
+      "priceUnitEn": "SAR",
+      "image": "/images/services/service-villas.webp",
+      "coverImage": "/images/services/service-villas.webp",
+      "gallery": [
+        "/images/services/service-villas.webp",
+        "/images/portfolio/project-1.webp"
+      ],
+      "descriptionAr": "باقة متكاملة للفلل تشمل دهان المساحات الداخلية الكبرى، المداخل والدرج، والواجهات الخارجية المقاومة للحرارة والرطوبة.",
+      "descriptionEn": "Full-scale villa painting contract covering interior halls, staircases, and weather-proof facade systems.",
+      "featured": true,
+      "order": 9
+    },
+    {
+      "id": "prod-10",
+      "slug": "majlis-painting-offer",
+      "titleAr": "دهانات المجالس وصالات الضيافة",
+      "titleEn": "Luxury Majlis Painting Package",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 850,
+      "oldPrice": 1100,
+      "showPrice": true,
+      "priceUnitAr": "ريال / للمجلس",
+      "priceUnitEn": "SAR",
+      "image": "/images/services/service-majlis.webp",
+      "coverImage": "/images/services/service-majlis.webp",
+      "gallery": [
+        "/images/services/service-majlis.webp",
+        "/images/portfolio/project-2.webp"
+      ],
+      "descriptionAr": "تصميم وتنفيذ دهانات المجالس السعودية بألوان راقية وملمس حريري يعكس كرم الضيافة وأناقة المكان.",
+      "descriptionEn": "Tailored paint and accent styling for traditional and modern Saudi guest majlis halls.",
+      "featured": true,
+      "order": 10
+    },
+    {
+      "id": "prod-11",
+      "slug": "apartment-rapid-offer",
+      "titleAr": "دهان الشقق السريعة والنظيفة",
+      "titleEn": "Rapid Apartment Painting Package",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 650,
+      "oldPrice": 900,
+      "showPrice": true,
+      "priceUnitAr": "ريال / للشقة",
+      "priceUnitEn": "SAR",
+      "image": "/images/services/service-apartments.webp",
+      "coverImage": "/images/services/service-apartments.webp",
+      "gallery": [
+        "/images/services/service-apartments.webp",
+        "/images/services/service-homes.webp"
+      ],
+      "descriptionAr": "تجديد دهان الشقق السكنية في وقت قياسي وبدون فوضى، بدهانات مريحة للعين وبدون روائح نفاذة.",
+      "descriptionEn": "Clean and rapid turnkey apartment repainting with odorless eco-friendly paint formulations.",
+      "featured": true,
+      "order": 11
+    },
+    {
+      "id": "prod-12",
+      "slug": "facade-profile-offer",
+      "titleAr": "تشطيب الواجهات بالبروفايل وعوازل جوتاشيلد",
+      "titleEn": "Exterior Facade Profile & Jotashield Shielding",
+      "categoryId": "cat-4",
+      "categorySlug": "exterior",
+      "categoryAr": "واجهات الفلل والمباني",
+      "categoryEn": "Villas & Facades",
+      "price": 1200,
+      "oldPrice": 1600,
+      "showPrice": true,
+      "priceUnitAr": "ريال / عرض الواجهة",
+      "priceUnitEn": "SAR",
+      "image": "/images/services/service-exterior.webp",
+      "coverImage": "/images/services/service-exterior.webp",
+      "gallery": [
+        "/images/services/service-exterior.webp",
+        "/images/services/facade.webp"
+      ],
+      "descriptionAr": "دهانات بروفايل خارجية عالية التحمل ومقاومة لحرارة ورطوبة وأملاح المنطقة الشرقية مع عوازل تسريب معتمدة.",
+      "descriptionEn": "Heavy profile coatings and certified moisture/thermal barriers designed for Eastern Province coastal weather.",
+      "featured": true,
+      "order": 12
+    },
+    {
+      "id": "prod-jotun-catalog-2027",
+      "slug": "jotun-colors-guide-2027",
+      "titleAr": "دليل ألوان جوتن الأكثر طلباً لعام 2026-2027",
+      "titleEn": "Jotun Most Popular Colors Guide 2026-2027",
+      "categoryId": "cat-3",
+      "categorySlug": "wall-decor",
+      "categoryAr": "الديكورات والبدائل العصرية",
+      "categoryEn": "Wall Decor",
+      "price": 0,
+      "oldPrice": null,
+      "showPrice": false,
+      "priceUnitAr": "معاينة مجانية",
+      "priceUnitEn": "Free Survey",
+      "image": "/images/catalog/jotun-popular-colors-2027.jpg",
+      "coverImage": "/images/catalog/jotun-popular-colors-2027.jpg",
+      "gallery": [
+        "/images/catalog/jotun-popular-colors-2027.jpg",
+        "/images/catalog/jotun-interior-swatches.jpg",
+        "/images/catalog/real-color-comparison-swatch.jpg"
+      ],
+      "descriptionAr": "دليل الألوان الأكثر طلباً في دهانات المنازل والفلل بالمنطقة الشرقية من الأبيض الهادئ والرمادي الفاتح إلى الجريج (لايمستون، أيفوري، تايملس، ساند، فانيلا لاتيه، سكاي لايت، سمر سنو، أكسفورد ريفر، كلاسيك وايت، بريز). نوفر عينات دهان حقيقية مجانية في موقعك.",
+      "descriptionEn": "The most requested Jotun interior color palette for modern villas and apartments across Khobar, Dammam, and Qatif.",
+      "featured": true,
+      "order": 7
+    },
+    {
+      "id": "prod-jotun-interior-swatches",
+      "slug": "jotun-interior-swatches-collection",
+      "titleAr": "كتالوج اختيارات ألوان الدهان الداخلية (10 درجات ملكية)",
+      "titleEn": "Interior Paint Color Swatches Collection (10 Shades)",
+      "categoryId": "cat-3",
+      "categorySlug": "wall-decor",
+      "categoryAr": "الديكورات والبدائل العصرية",
+      "categoryEn": "Wall Decor",
+      "price": 0,
+      "oldPrice": null,
+      "showPrice": false,
+      "priceUnitAr": "كتالوج معتمد",
+      "priceUnitEn": "Certified Catalog",
+      "image": "/images/catalog/jotun-interior-swatches.jpg",
+      "coverImage": "/images/catalog/jotun-interior-swatches.jpg",
+      "gallery": [
+        "/images/catalog/jotun-interior-swatches.jpg",
+        "/images/catalog/real-color-comparison-swatch.jpg",
+        "/images/portfolio/real-limestone-hallway.jpg"
+      ],
+      "descriptionAr": "اختيارات ألوان الدهان الداخلية المعتمدة بأرقامها الأصلية: 10341 لايمستون، 0567 أيفوري، 1024 تايملس، 1140 ساند، 1519 فانيلا لاتيه، 1624 سكاي لايت، 1928 سمر سنو، 9915 أكسفورد ريفر، 9918 كلاسيك وايت، 9938 بلاكند بلاك.",
+      "descriptionEn": "Official swatch collection of top 10 interior shades with exact code reference numbers for flawless wall execution.",
+      "featured": true,
+      "order": 8
+    },
+    {
+      "id": "prod-jotun-fenomastic-casho",
+      "slug": "jotun-fenomastic-casho-1931",
+      "titleAr": "دهان جوتن فينوماستيك الأصلي — كاشو 1931",
+      "titleEn": "Jotun Fenomastic Pure Colours — Cashew 1931",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 550,
+      "oldPrice": 750,
+      "showPrice": true,
+      "priceUnitAr": "ريال للغرفة",
+      "priceUnitEn": "SAR/room",
+      "image": "/images/products/real-jotun-fenomastic-casho.jpg",
+      "coverImage": "/images/products/real-jotun-fenomastic-casho.jpg",
+      "gallery": [
+        "/images/products/real-jotun-fenomastic-casho.jpg",
+        "/images/catalog/jotun-interior-swatches.jpg",
+        "/images/portfolio/real-modern-room-parquet.jpg"
+      ],
+      "descriptionAr": "دهان فينوماستيك الأصلي من جوتن بدرجة كاشو 1931 الراقية التي تمنح الغرف هدوءاً فندقياً ناعماً، قابل للغسيل الفائق ومقاوم للبقع مع مظهر حريري مطفي جذاب.",
+      "descriptionEn": "Authentic Jotun Fenomastic paint in Cashew 1931 shade for luxury interior spaces.",
+      "featured": true,
+      "order": 9
+    },
+    {
+      "id": "prod-limestone-hallway-finish",
+      "slug": "limestone-hallway-interior-finish",
+      "titleAr": "تشطيب الممرات والمداخل بدهان لايمستون 10341",
+      "titleEn": "Hallway & Entrance Finish in Limestone 10341",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 450,
+      "oldPrice": 600,
+      "showPrice": true,
+      "priceUnitAr": "ريال للممر",
+      "priceUnitEn": "SAR/hallway",
+      "image": "/images/portfolio/real-limestone-hallway.jpg",
+      "coverImage": "/images/portfolio/real-limestone-hallway.jpg",
+      "gallery": [
+        "/images/portfolio/real-limestone-hallway.jpg",
+        "/images/portfolio/real-classic-white-corridor.jpg",
+        "/images/portfolio/real-breeze-limestone-foam.jpg"
+      ],
+      "descriptionAr": "تشطيب ممرات ومداخل الفلل والشقق بلون لايمستون 10341 العصري الذي يوسع الأروقة والممرات الضيقة بتدرج بيج رمادي هادئ يعكس الإضاءات الخافتة بامتياز.",
+      "descriptionEn": "Modern corridor and entrance finish using Jotun Limestone 10341 for spacious and relaxing hallway aesthetics.",
+      "featured": true,
+      "order": 10
+    },
+    {
+      "id": "prod-classic-white-corridor-finish",
+      "slug": "classic-white-corridor-finish",
+      "titleAr": "تشطيب ممرات ومداخل بلون كلاسيك وايت 9918 المضيء",
+      "titleEn": "Classic White 9918 Luminous Corridor Finish",
+      "categoryId": "cat-1",
+      "categorySlug": "room-offers",
+      "categoryAr": "عروض وباقات الغرف",
+      "categoryEn": "Room Packages",
+      "price": 450,
+      "oldPrice": 600,
+      "showPrice": true,
+      "priceUnitAr": "ريال للممر",
+      "priceUnitEn": "SAR/hallway",
+      "image": "/images/portfolio/real-classic-white-corridor.jpg",
+      "coverImage": "/images/portfolio/real-classic-white-corridor.jpg",
+      "gallery": [
+        "/images/portfolio/real-classic-white-corridor.jpg",
+        "/images/portfolio/real-limestone-hallway.jpg",
+        "/images/portfolio/real-modern-room-parquet.jpg"
+      ],
+      "descriptionAr": "طلاء وتشطيب ممرات الفلل بلون كلاسيك وايت 9918 النقي مع نعلات عصرية، يوفر إشراقة وانشراحاً استثنائياً ويتناغم مع اللوحات الجدارية والمرايا.",
+      "descriptionEn": "Pristine Classic White 9918 hallway painting for maximum light reflection and modern minimalism.",
+      "featured": false,
+      "order": 11
+    }
+  ],
+  "seo": {
+    "metaTitleAr": "القصر الذهبي للدهانات والديكورات الحديثة | دهانات جوتن وديكورات بالشرقية (الدمام - الخبر - القطيف)",
+    "metaTitleEn": "Golden Palace Paints & Modern Decor | JOTUN Paints & Decor in Eastern Province",
+    "metaDescriptionAr": "القصر الذهبي للدهانات والديكورات الحديثة بالمنطقة الشرقية: دهانات داخلية وخارجية بخامات جوتن الأصلية، بديل الرخام والخشب، أسقف جبس بورد، ودهان الأبواب بأفضل الأسعار.",
+    "metaDescriptionEn": "Golden Palace for modern paints and interior decor in Dammam, Khobar, and Qatif. Genuine JOTUN paints, wall panels, gypsum ceilings, and door finishing.",
+    "keywords": [
+      "القصر الذهبي للدهانات والديكورات الحديثة",
+      "معلم دهانات بالدمام",
+      "دهانات جوتن الخبر",
+      "فني دهانات القطيف",
+      "ديكورات بديل الرخام الشرقية",
+      "بديل الخشب الدمام",
+      "بانوهات فوم جدارية الخبر",
+      "دهان أسقف جبس بورد",
+      "دهان أبواب خشبية",
+      "عروض دهانات جوتن",
+      "تشطيب واجهات فلل الدمام"
+    ],
+    "canonicalUrl": "https://alqasraldhahabi.com",
+    "robotsIndexing": true,
+    "ogTitle": "القصر الذهبي للدهانات والديكورات الحديثة | فخامة الألوان والتشطيبات",
+    "ogDescription": "عروض دهانات حصرية تبدأ من 500 ريال للغرفة بخامات جوتن الأصلية وتشطيبات ديكورية راقية بالمنطقة الشرقية.",
+    "ogImage": "/images/hero/hero-living-room.webp",
+    "googleSiteVerification": "",
+    "googleAnalyticsId": "",
+    "businessNameAr": "القصر الذهبي للدهانات والديكورات الحديثة",
+    "businessNameEn": "GOLDEN PALACE FOR PAINTS & MODERN DECOR",
+    "city": "الدمام - الخبر - القطيف",
+    "streetAddress": "المنطقة الشرقية، المملكة العربية السعودية",
+    "phone": "0561095508",
+    "whatsapp": "966561095508",
+    "googleMapsUrl": "https://maps.app.goo.gl",
+    "commercialRegistration": "",
+    "vatNumber": ""
+  },
+  "reviews": [
+    {
+      "id": "rev-1",
+      "author": "أبو عبدالله - الدمام",
+      "rating": 5,
+      "date": "2026-02-10",
+      "comment": "شغل نظيف جداً ودقة في المواعيد، ودهانات جوتن مطابقة تماماً للتصميم المعتمد. أشكر إدارة وفريق القصر الذهبي على التعامل الراقي.",
+      "verified": true
+    },
+    {
+      "id": "rev-2",
+      "author": "أم فهد - الخبر",
+      "rating": 5,
+      "date": "2026-01-25",
+      "comment": "جودة الدهانات ممتازة والألوان متطابقة مع الكتالوج، واهتمام كبير بنظافة المكان بعد الانتهاء من العمل وسرعة في الإنجاز.",
+      "verified": true
+    },
+    {
+      "id": "rev-3",
+      "author": "أبو خالد - القطيف",
+      "rating": 5,
+      "date": "2026-01-14",
+      "comment": "التزام تام بالمواعيد وسعر منافس جداً مقارنة بالجودة، وفريق العمل محترف وخلوق. أنصح بالتعامل معهم بشدة.",
+      "verified": true
+    }
+  ],
+  "machinery": [
+    {
+      "id": "equipment-airless-sprayer",
+      "titleAr": "ماكينات الرش الهوائي Airless الحديثة",
+      "titleEn": "Modern Airless Paint Sprayer",
+      "badgeAr": "معدات متطورة",
+      "badgeEn": "Advanced Equipment",
+      "descAr": "ماكينات رش حديثة تضمن توزيع متجانس ومثالي للدهانات دون أي أثر لخطوط الرولة.",
+      "descEn": "High-performance airless sprayers ensuring even and flawless paint application.",
+      "image": "/images/offers/paint-tools.webp",
+      "featuresAr": [
+        "توزيع متجانس للدهان",
+        "سرعة إنجاز المساحات الكبيرة",
+        "تشطيب فندقي ناعم"
+      ],
+      "featuresEn": [
+        "Uniform paint distribution",
+        "High execution speed",
+        "Silk-smooth finish"
+      ],
+      "order": 1
+    },
+    {
+      "id": "equipment-orbital-sander",
+      "titleAr": "أجهزة الصنفرة المكانيكية المفرغة من الغبار",
+      "titleEn": "Dustless Orbital Wall Sanders",
+      "badgeAr": "بيئة عمل نظيفة",
+      "badgeEn": "Clean Work Environment",
+      "descAr": "أجهزة صنفرة احترافية مزودة بنظام شفط آلي للغبار لحماية أثاث المنزل أثناء العمل.",
+      "descEn": "Professional wall sanders with integrated vacuum extraction for clean living spaces.",
+      "image": "/images/offers/paint-tools.webp",
+      "featuresAr": [
+        "شفط 99% من غبار المعجون",
+        "استواء تام للجدران",
+        "حماية الأثاث والمفروشات"
+      ],
+      "featuresEn": [
+        "99% dust vacuum extraction",
+        "Flawless wall leveling",
+        "Complete furniture protection"
+      ],
+      "order": 2
+    }
+  ]
+}
